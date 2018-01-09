@@ -10,6 +10,8 @@ General: You shouldn't be here :P
 It's the file [QIPposter.pdf](./QIPposter.pdf) above.
 
 ## References
+* 
+
 
 ## Contact
 At the time of writing, all of us were affiliated with the Université libre de Bruxelles (ULB). Our group website is [QuIC](quic.ulb.ac.be). Our contact information
@@ -22,7 +24,7 @@ At the time of writing, all of us were affiliated with the Université libre de 
 
 
 
-Postal Address:
+Address:
 
 
 QuIC  
