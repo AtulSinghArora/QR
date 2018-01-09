@@ -11,7 +11,7 @@ It's the file [QIPposter.pdf](./QIPposter.pdf) above.
 
 ## References
 * For a nice overview of the coin flipping problem and the fundamental result that WCF is quantumly possible  
-Carlos Mochon | [Quantum weak coin flipping with arbitrarily small bias](arXiv:0711.4114)
+Carlos Mochon | [Quantum weak coin flipping with arbitrary small bias](arXiv:0711.4114)
 * 
 
 
