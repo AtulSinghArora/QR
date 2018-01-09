@@ -6,3 +6,5 @@ General: You shouldn't be here :P
 
 ## The poster...
 ...is the file [QIPposter.pdf](./QIPposter.pdf) above.
+
+## References
