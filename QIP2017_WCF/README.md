@@ -10,7 +10,7 @@ General: You shouldn't be here :P
 It's the file [QIPposter.pdf](./QIPposter.pdf) above.
 
 ## References
-* For a nice overview of the coin flipping problem, Kitaev's frameworks and the fundamental result that WCF is quantumly possible:  
+* For a nice overview of the coin flipping problem, Kitaev's frameworks and the fundamental result that WCF is quantumly possible:  \
   Carlos Mochon | [Quantum weak coin flipping with arbitrarily small bias](https://arxiv.org/abs/0711.4114) (2007)
 * For a peer-reviewed indpendent confirmation of the aforesaid:  
 Dorit Aharonov, André Chailloux, et. al. | [A simpler proof of existence of quantum weak coin flipping with arbitrarily small bias](https://arxiv.org/abs/1402.7166) (2016 in [SIAM J. Comput](https://doi.org/10.1137/14096387X))
