@@ -21,9 +21,9 @@ At the time of writing, all of us were affiliated with the Université libre de 
 	* maths@weis-stephan.de
 
 Postal Address:
-QuIC 
-Ecole Polytechnique de Bruxelles
-Université Libre de Bruxelles 
-50 av. F.D. Roosevelt - CP165/59 
-B-1050 Bruxelles 
-Belgique
+QuIC  
+Ecole Polytechnique de Bruxelles  
+Université Libre de Bruxelles  
+50 av. F.D. Roosevelt - CP165/59  
+B-1050 Bruxelles  
+Belgique  
