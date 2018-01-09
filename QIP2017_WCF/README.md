@@ -12,6 +12,8 @@ It's the file [QIPposter.pdf](./QIPposter.pdf) above.
 ## References
 * For a nice overview of the coin flipping problem, Kitaev's frameworks and the fundamental result that WCF is quantumly possible:  
 Carlos Mochon | [Quantum weak coin flipping with arbitrarily small bias](https://arxiv.org/abs/0711.4114) (2007)
+* For a peer-reviewed indpendent confirmation of the aforesaid:  
+
 * The current best explicit weak coin flipping protocol is described in its neatest form in the aforesaid. The original article by the same author on the said topic:  
 Carlos Mochon | [Large family of quantum weak coin-flipping protocols](https://arxiv.org/abs/quant-ph/0502068)
 * Kitaev's contributions:  
