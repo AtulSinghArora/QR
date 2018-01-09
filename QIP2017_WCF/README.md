@@ -54,7 +54,7 @@ Jérémie Roland
   jroland@ulb.ac.be
 
 
-Stephan Weis
+Stephan Weis  
 
   maths@weis-stephan.de
 
