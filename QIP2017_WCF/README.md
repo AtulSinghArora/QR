@@ -15,23 +15,30 @@ It's the file [QIPposter.pdf](./QIPposter.pdf) above.
 
   Carlos Mochon  
   [Quantum weak coin flipping with arbitrarily small bias](https://arxiv.org/abs/0711.4114) (2007)
+
 * For a peer-reviewed indpendent confirmation of the aforesaid:
 
 
   Dorit Aharonov, André Chailloux, et. al.  
   [A simpler proof of existence of quantum weak coin flipping with arbitrarily small bias](https://arxiv.org/abs/1402.7166) (2016 in [SIAM J. Comput](https://doi.org/10.1137/14096387X))
+
 * The current best explicit weak coin flipping protocol is described in its neatest form in the aforesaid. The original article by the same author on the said topic:  
 
 
-  Carlos Mochon | [Large family of quantum weak coin-flipping protocols](https://arxiv.org/abs/quant-ph/0502068) (2005 in [Phys Rev A](10.1103/PhysRevA.72.022341))
+  Carlos Mochon  
+  [Large family of quantum weak coin-flipping protocols](https://arxiv.org/abs/quant-ph/0502068) (2005 in [Phys Rev A](10.1103/PhysRevA.72.022341))
+
 * Kitaev's contributions:  
 
 
-  Alexei Kitaev | Quantum coin flipping. Talk at the 6th workshop on Quantum Information Processing, 2003.
+  Alexei Kitaev  
+  Quantum coin flipping. Talk at the 6th workshop on Quantum Information Processing, 2003.
+
 * The current best explicit strong coin flipping protocol:  
 
 
-  Andris Ambainis | [A New Protocol and Lower Bounds for Quantum Coin Flipping](https://arxiv.org/abs/quant-ph/0204022) (2002 in [J. Comp. & Sys. Sc.](https://www.sciencedirect.com/science/article/pii/S0022000003001417))
+  Andris Ambainis  
+  [A New Protocol and Lower Bounds for Quantum Coin Flipping](https://arxiv.org/abs/quant-ph/0204022) (2002 in [J. Comp. & Sys. Sc.](https://www.sciencedirect.com/science/article/pii/S0022000003001417))
 
 ## Contact
 At the time of writing, all of us were affiliated with the Université libre de Bruxelles (ULB). Our group [QuIC website](quic.ulb.ac.be) may be of interest. Our contact information
