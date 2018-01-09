@@ -19,7 +19,7 @@ Carlos Mochon | [Large family of quantum weak coin-flipping protocols](https://a
 * Kitaev's contributions:  
 Alexei Kitaev | Quantum coin flipping. Talk at the 6th workshop on Quantum Information Processing, 2003.
 * The current best explicit strong coin flipping protocol:  
-Andris Ambainis | [A New Protocol and Lower Bounds for Quantum Coin Flipping](https://arxiv.org/abs/quant-ph/0204022)
+Andris Ambainis | [A New Protocol and Lower Bounds for Quantum Coin Flipping](https://arxiv.org/abs/quant-ph/0204022) (2002)
 
 ## Contact
 At the time of writing, all of us were affiliated with the Université libre de Bruxelles (ULB). Our group website is [QuIC](quic.ulb.ac.be). Our contact information
