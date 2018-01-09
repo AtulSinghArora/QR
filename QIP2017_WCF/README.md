@@ -14,8 +14,8 @@ It's the file [QIPposter.pdf](./QIPposter.pdf) above.
 ## Contact
 At the time of writing, all of us were affiliated with the Université libre de Bruxelles (ULB). Our group website is [QuIC](). Our contact information
 * [Atul](https://atulsingharora.github.io)
-** aarora@ulb.ac.be, atul.singh.arora@gmail.com
+	* aarora@ulb.ac.be, atul.singh.arora@gmail.com
 * Jérémie Roland
-** jroland@ulb.ac.be
+	* jroland@ulb.ac.be
 * Stephan Weis
-** 
+	* maths@weis-stephan.de
