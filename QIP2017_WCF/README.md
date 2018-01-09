@@ -32,9 +32,7 @@ At the time of writing, all of us were affiliated with the Université libre de 
 
 
 
-Address:
-
-
+Address:  
 QuIC  
 Ecole Polytechnique de Bruxelles  
 Université Libre de Bruxelles  
