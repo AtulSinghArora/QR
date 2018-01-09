@@ -18,7 +18,8 @@ It's the file [QIPposter.pdf](./QIPposter.pdf) above.
 * For a peer-reviewed indpendent confirmation of the aforesaid:
 
 
-  Dorit Aharonov, André Chailloux, et. al. | [A simpler proof of existence of quantum weak coin flipping with arbitrarily small bias](https://arxiv.org/abs/1402.7166) (2016 in [SIAM J. Comput](https://doi.org/10.1137/14096387X))
+  Dorit Aharonov, André Chailloux, et. al.  
+  [A simpler proof of existence of quantum weak coin flipping with arbitrarily small bias](https://arxiv.org/abs/1402.7166) (2016 in [SIAM J. Comput](https://doi.org/10.1137/14096387X))
 * The current best explicit weak coin flipping protocol is described in its neatest form in the aforesaid. The original article by the same author on the said topic:  
 
 
