@@ -22,7 +22,7 @@ Alexei Kitaev | Quantum coin flipping. Talk at the 6th workshop on Quantum Infor
 Andris Ambainis | [A New Protocol and Lower Bounds for Quantum Coin Flipping](https://arxiv.org/abs/quant-ph/0204022) (2002 in [J. Comp. & Sys. Sc.](https://www.sciencedirect.com/science/article/pii/S0022000003001417))
 
 ## Contact
-At the time of writing, all of us were affiliated with the Université libre de Bruxelles (ULB). Our group website is [QuIC](quic.ulb.ac.be). Our contact information
+At the time of writing, all of us were affiliated with the Université libre de Bruxelles (ULB). Our group [QuIC website](quic.ulb.ac.be) may be of interest. Our contact information
 * [Atul Singh Arora](https://atulsingharora.github.io) 
 	* aarora@ulb.ac.be, atul.singh.arora@gmail.com
 * Jérémie Roland
