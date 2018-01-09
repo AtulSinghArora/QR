@@ -15,7 +15,7 @@ Carlos Mochon | [Quantum weak coin flipping with arbitrarily small bias](https:/
 * For a peer-reviewed indpendent confirmation of the aforesaid:  
 Dorit Aharonov, André Chailloux, Maor Ganz, Iordanis Kerenidis, Loïck Magnin | [A simpler proof of existence of quantum weak coin flipping with arbitrarily small bias](https://arxiv.org/abs/1402.7166) (2016 in [SIAM J. Comput](https://doi.org/10.1137/14096387X))
 * The current best explicit weak coin flipping protocol is described in its neatest form in the aforesaid. The original article by the same author on the said topic:  
-Carlos Mochon | [Large family of quantum weak coin-flipping protocols](https://arxiv.org/abs/quant-ph/0502068)
+Carlos Mochon | [Large family of quantum weak coin-flipping protocols](https://arxiv.org/abs/quant-ph/0502068) ()
 * Kitaev's contributions:  
 Alexei Kitaev | Quantum coin flipping. Talk at the 6th workshop on Quantum Information Processing, 2003.
 * The current best explicit strong coin flipping protocol:  
