@@ -10,7 +10,8 @@ General: You shouldn't be here :P
 It's the file [QIPposter.pdf](./QIPposter.pdf) above.
 
 ## References
-
+* Carlos Mochon | [Quantum weak coin flipping with arbitrary small bias](arXiv:0711.4114)
+* 
 
 
 ## Contact
