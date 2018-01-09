@@ -10,7 +10,7 @@ General: You shouldn't be here :P
 It's the file [QIPposter.pdf](./QIPposter.pdf) above.
 
 ## References
-* 
+
 
 
 ## Contact
