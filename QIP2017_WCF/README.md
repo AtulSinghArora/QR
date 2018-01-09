@@ -20,7 +20,11 @@ At the time of writing, all of us were affiliated with the Université libre de 
 * Stephan Weis
 	* maths@weis-stephan.de
 
+
+
 Postal Address:
+
+
 QuIC  
 Ecole Polytechnique de Bruxelles  
 Université Libre de Bruxelles  
