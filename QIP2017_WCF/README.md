@@ -41,7 +41,7 @@ It's the file [QIPposter.pdf](./QIPposter.pdf) above.
   [A New Protocol and Lower Bounds for Quantum Coin Flipping](https://arxiv.org/abs/quant-ph/0204022) (2002 in [J. Comp. & Sys. Sc.](https://www.sciencedirect.com/science/article/pii/S0022000003001417))
 
 ## Contact
-At the time of writing, all of us were affiliated with the Université libre de Bruxelles (ULB). Our group [QuIC website](https://quic.ulb.ac.be) may be of interest. Our contact information
+At the time of writing, all of us were affiliated with the Université libre de Bruxelles (ULB). Our group [QuIC website](http://quic.ulb.ac.be) may be of interest. Our contact information
 - [Atul Singh Arora](https://atulsingharora.github.io) 
 	- aarora@ulb.ac.be, atul.singh.arora@gmail.com
 - Jérémie Roland
