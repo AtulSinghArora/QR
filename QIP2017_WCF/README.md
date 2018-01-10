@@ -26,7 +26,7 @@ It's the file [QIPposter.pdf](./QIPposter.pdf) above.
 
 
   Carlos Mochon  
-  [Large family of quantum weak coin-flipping protocols](https://arxiv.org/abs/quant-ph/0502068) (2005 in [Phys Rev A](10.1103/PhysRevA.72.022341))
+  [Large family of quantum weak coin-flipping protocols](https://arxiv.org/abs/quant-ph/0502068) (2005 in [Phys Rev A](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.72.022341))
 
 * Kitaev's contributions:  
 
