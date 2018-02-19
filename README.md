@@ -1,5 +1,5 @@
 ## Update | Weak Coin Flipping @ QIP 2017, Delft
-Navigate to the folder by the name [QIP2017_WCF](./QIP2017_WCF)
+Navigate to the folder by the name [QIP2018_WCF](./QIP2018_WCF)
 
 ## QR Repository
 Intended to host the information I'd like to convey using QR codes primarily in talks and posters. There is a remote possiblity of my website — https://atulsingharora.github.io/ — containing a better representation of this.
