@@ -1,4 +1,4 @@
-## Update | Weak Coin Flipping @ QIP 2017, Delft
+## Update | Weak Coin Flipping @ QIP 2018, Delft
 Navigate to the folder by the name [QIP2018_WCF](./QIP2018_WCF)
 
 ## QR Repository
