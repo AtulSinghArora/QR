@@ -5,7 +5,7 @@ FRIA Jury Member(s): Thank you for your interest in my work. Should the followin
 
 ## Documents
 
-* Extended abstract of the $1/10$ result | This was written for submission to QIP 2018
-* Poster for the $1/10$ result | This was presentad at QIP 2018
-* Progress report and project plan, FRIA 2017
-* 
+* Extended abstract of the $1/10$ result | This was written for submission to QIP 2018.
+* Poster for the $1/10$ result | This was presentad at QIP 2018.
+* Draft of the $1/10$ bias protocol | This is password protected.
+* Progress report and project plan, FRIA 2017 | To facilitate comparison.
