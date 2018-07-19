@@ -5,7 +5,10 @@ FRIA Jury Member(s): Thank you for your interest in my work. Should the followin
 
 ## Documents
 
-* Extended abstract of the $1/10$ result | This was written for submission to QIP 2018.
-* Poster for the $1/10$ result | This was presentad at QIP 2018.
-* Draft of the $1/10$ bias protocol | This is password protected.
-* Progress report and project plan, FRIA 2017 | To facilitate comparison.
+* [Extended abstract of the $1/10$ result](./) | This was written for submission to QIP 2018.
+* [Poster for the $1/10$ result](./) | This was presentad at QIP 2018.
+* [Draft of the $1/10$ bias protocol](./WCF_1by10_locked.pdf) | This is password protected.
+* [Progress report and project plan, FRIA 2017](./ProgressReportFRIA1.pdf) | To facilitate comparison.
+
+## Contact
+You can reach me by email: aarora@ulb.ac.be, atul.singh.arora@gmail.com
