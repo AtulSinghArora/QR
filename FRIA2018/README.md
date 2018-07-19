@@ -1,8 +1,8 @@
 # FNRS/FRIA Report | Supplementary Material
 
-FRIA Jury Member(s): Thank you for your interest in my work. Should the following not quench your thirst I will be happy to share our more recent results.
+**FRIA Jury Member(s)**: Thank you for your interest in my work. Should the following not quench your thirst I will be happy to share our more recent results.
 
-Others: You shouldn't be here.
+**Others**: You shouldn't be here.
 
 ## Documents
 
