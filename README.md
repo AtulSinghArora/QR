@@ -8,5 +8,5 @@ Intended to host the information I'd like to convey using QR codes primarily in 
 Navigate by opening the folders, the folder names above should be self explanatory. You can download any file you like by clicking on it and asking for a "raw" version.
 
 ## Archive
-*	Weak Coin Flipping @ QIP 2018, Delft
+*	Weak Coin Flipping @ QIP 2018, Delft;
 	Navigate to the folder by the name [QIP2018_WCF](./QIP2018_WCF)
