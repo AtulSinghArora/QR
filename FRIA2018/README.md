@@ -7,9 +7,9 @@ Others: You shouldn't be here.
 
 ## Documents
 
-* [Extended abstract of the $1/10$ result](./QIP_abstract_WCF_1by10_jEdit2.pdf) | This was written for submission to QIP 2018.
-* [Poster for the $1/10$ result](./QIPposter.pdf) | This was presentad at QIP 2018.
-* [Draft of the $1/10$ bias protocol](./WCF_1by10_locked.pdf) | This is password protected.
+* [Extended abstract of the 1/10 result](./QIP_abstract_WCF_1by10_jEdit2.pdf) | This was written for submission to QIP 2018.
+* [Poster for the 1/10 result](./QIPposter.pdf) | This was presentad at QIP 2018.
+* [Draft of the 1/10 bias protocol](./WCF_1by10_locked.pdf) | This is password protected.
 * [Progress report and project plan, FRIA 2017](./ProgressReportFRIA1.pdf) | To facilitate comparison.
 
 ## Contact
