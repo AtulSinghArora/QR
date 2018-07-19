@@ -8,9 +8,9 @@
 
 Click on the document of interest. On the page that opens there's also a download button.
 
-* [Extended abstract of the 1/10 result](./QIP_abstract_WCF_1by10_jEdit2.pdf) | This was written for submission to QIP 2018.
-* [Poster for the 1/10 result](./QIPposter.pdf) | This was presented at QIP 2018.
-* [Draft of the 1/10 bias protocol](./WCF_1by10_locked.pdf) | This is password protected.
+* [Extended Abstract: Weak Coin Flipping beyond bias 1/6](./QIP_abstract_WCF_1by10_jEdit2.pdf) | This was written for submission to QIP 2018.
+* [Poster: Weak Coin Flipping beyond bias 1/6](./QIPposter.pdf) | This was presented at QIP 2018.
+* [Draft of the bias 1/10 protocol](./WCF_1by10_locked.pdf) | This is password protected.
 * [Progress report and project plan, FRIA 2017](./ProgressReportFRIA1.pdf) | To facilitate comparison.
 
 ## Contact
