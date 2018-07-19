@@ -3,6 +3,8 @@
 ## Introduction
 FRIA Jury Member(s): Thank you for your interest in my work. Should the following not quench your thirst I will be happy to share our more recent results.
 
+Others: You shouldn't be here.
+
 ## Documents
 
 * [Extended abstract of the $1/10$ result](./QIP_abstract_WCF_1by10_jEdit2.pdf) | This was written for submission to QIP 2018.
