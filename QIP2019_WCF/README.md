@@ -1,16 +1,14 @@
 # Weak Coin Flipping
 
-### Abstract
-
-We investigate weak coin flipping, a fundamental cryptographic primitive where two distrustful parties need to remotely establish a shared random bit. A cheating player can try to bias the output bit towards a preferred value. For weak coin flipping the players have known opposite preferred values. A weak coin-flipping protocol has a bias ε if neither player can force the outcome towards his/her preferred value with probability more than 1/2+ε. While it is known that classically ε=1/2, Mochon showed in 2007 that quantumly weak coin flipping can be achieved with arbitrarily small bias (near perfect) but the best known explicit protocol has bias 1/6 (also due to Mochon). We propose a framework to construct new explicit protocols achieving biases beyond 1/6. In particular, we construct explicit unitaries for protocols with bias up to 1/10 (the first improvement of its kind in the last thirteen years). To go beyond, we introduce what we call the Elliptic Monotone Align (EMA) algorithm which, together with the framework, allows us to construct protocols with arbitrarily small biases. This solves the open problem of quantum weak coin flipping (in the absence of noise).
-
 ### Draft
 
 The current version of the [draft](./WCF_0v8a.pdf) is 0v8a which was updated on October 2, 2018.
 
 The [extended abstract](./QIP_2019_abstract_WCF_1v1.pdf) submitted to QIP is also available.
 
+### Abstract
 
+We investigate weak coin flipping, a fundamental cryptographic primitive where two distrustful parties need to remotely establish a shared random bit. A cheating player can try to bias the output bit towards a preferred value. For weak coin flipping the players have known opposite preferred values. A weak coin-flipping protocol has a bias ε if neither player can force the outcome towards his/her preferred value with probability more than 1/2+ε. While it is known that classically ε=1/2, Mochon showed in 2007 that quantumly weak coin flipping can be achieved with arbitrarily small bias (near perfect) but the best known explicit protocol has bias 1/6 (also due to Mochon). We propose a framework to construct new explicit protocols achieving biases beyond 1/6. In particular, we construct explicit unitaries for protocols with bias up to 1/10 (the first improvement of its kind in the last thirteen years). To go beyond, we introduce what we call the Elliptic Monotone Align (EMA) algorithm which, together with the framework, allows us to construct protocols with arbitrarily small biases. This solves the open problem of quantum weak coin flipping (in the absence of noise).
 
 ### Interesting References
 * For a nice overview of the coin flipping problem, Kitaev's frameworks and the fundamental result that WCF is quantumly possible:
