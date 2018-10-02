@@ -4,8 +4,7 @@
 
 The current version of the [draft](./WCF_0v8a.pdf) is 0v8a which was updated on October 2, 2018.
 
-## QIP 2018 | poster
-It's the file [QIPposter.pdf](./QIPposter.pdf) above.
+
 
 ## Interesting References
 * For a nice overview of the coin flipping problem, Kitaev's frameworks and the fundamental result that WCF is quantumly possible:
