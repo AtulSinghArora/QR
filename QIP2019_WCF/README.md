@@ -1,15 +1,13 @@
-# Weak Coin Flipping beyond bias 1/6
+# Weak Coin Flipping
 
-## Introduction
-QIP poster re-visitors: Thank you for your interest in my work. Please free to contact me if you need further information regarding this.
+## Draft
 
+The current version of the [draft](./WCF_0v8a.pdf) is 0v8a which was updated on October 2, 2018.
 
-General: You shouldn't be here :P
-
-## The poster
+## QIP 2018 | poster
 It's the file [QIPposter.pdf](./QIPposter.pdf) above.
 
-## References
+## Interesting References
 * For a nice overview of the coin flipping problem, Kitaev's frameworks and the fundamental result that WCF is quantumly possible:
 
 
@@ -41,7 +39,7 @@ It's the file [QIPposter.pdf](./QIPposter.pdf) above.
   [A New Protocol and Lower Bounds for Quantum Coin Flipping](https://arxiv.org/abs/quant-ph/0204022) (2002 in [J. Comp. & Sys. Sc.](https://www.sciencedirect.com/science/article/pii/S0022000003001417))
 
 ## Contact
-At the time of writing, all of us were affiliated with the Université libre de Bruxelles (ULB). Our group [QuIC website](http://quic.ulb.ac.be) may be of interest. Our contact information
+All of us were affiliated with the Université libre de Bruxelles (ULB) when contributions were made to the work. Our group [QuIC website](http://quic.ulb.ac.be) may be of interest. Our contact information
 - [Atul Singh Arora](https://atulsingharora.github.io) 
 	- aarora@ulb.ac.be, atul.singh.arora@gmail.com
 - Jérémie Roland
