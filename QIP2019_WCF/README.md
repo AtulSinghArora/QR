@@ -2,7 +2,14 @@
 
 ### Draft
 
-The current version of the [draft](./WCF_0v8a.pdf) is 0v8a which was updated on October 2, 2018.
+The current version of the [draft](./WCF_0v8c.pdf) is 0v8c which was updated on October 17, 2018.
+
+| Versions                   | Release Date     |
+| -------------------------- | ---------------- |
+| [WCF_0v8c](./WCF_0v8c.pdf) | October 17, 2018 |
+| [WCF_0v8a](./WCF_0v8a.pdf) | October 2, 2018  |
+
+
 
 ### Abstract
 
