@@ -12,16 +12,72 @@ The [extended abstract](./QIP_2019_abstract_WCF_1v1.pdf) submitted to QIP is als
 
 The current version of the [draft](./WCF_0v8c.pdf) is 0v8c which was updated on October 17, 2018.
 
-| Versions                   | Release Date     |      |
-| -------------------------- | ---------------- | ---- |
-| [WCF_0v8c](./WCF_0v8c.pdf) | October 17, 2018 |      |
-| [WCF_0v8a](./WCF_0v8a.pdf) | October 2, 2018  |      |
+| Versions                   | Release Date     | Remark                                                       |
+| -------------------------- | ---------------- | ------------------------------------------------------------ |
+| [WCF_0v8c](./WCF_0v8c.pdf) | October 17, 2018 | Improved plots/figures; added intuition for in the discussion of the algorithm. |
+| [WCF_0v8a](./WCF_0v8a.pdf) | October 2, 2018  | QIP submission                                               |
 
 
 
 ### Numerical Implementation
 
-This section is under construction.
+A [partial implementation](https://mybinder.org/v2/gh/AtulSinghArora/QR/master?filepath=WCF/numerics/EMA_demo.ipynb) of the EMA algorithm, applied to a 5&rarr; 4 move taken from Mochon's bias 1/18 game is given below as an example.
+
+```
+For a 5->4 Mochon's bias 1/18 game
+
+The Xh matrix: 
+ [[( 49.8) ( 0.0) ( 0.0) ( 0.0) ( 0.0)]
+ [( 0.0) ( 50.6) ( 0.0) ( 0.0) ( 0.0)]
+ [( 0.0) ( 0.0) ( 51.8) ( 0.0) ( 0.0)]
+ [( 0.0) ( 0.0) ( 0.0) ( 52.6) ( 0.0)]
+ [( 0.0) ( 0.0) ( 0.0) ( 0.0) ( 1000000.0)]]
+The Xg matrix: 
+ [[( 1.0) ( 0.0) ( 0.0) ( 0.0) ( 0.0)]
+ [( 0.0) ( 49.4) ( 0.0) ( 0.0) ( 0.0)]
+ [( 0.0) ( 0.0) ( 50.2) ( 0.0) ( 0.0)]
+ [( 0.0) ( 0.0) ( 0.0) ( 51.4) ( 0.0)]
+ [( 0.0) ( 0.0) ( 0.0) ( 0.0) ( 52.2)]]
+The Initial Vector, v :
+ [( 0.000000003) ( 0.163958603) ( 0.622956866) ( 0.637112321) ( 0.423237770)]
+The required final vector, w:
+ [( 0.404720774) ( 0.627683942) ( 0.641813635) ( 0.174037992) ( 0.000000000)]
+
+
+Solution
+
+The O Matrix:
+ [[( 0.0101) ( 0.8397) ( 0.5238) (-0.1310) ( 0.0572)]
+ [(-0.0152) (-0.4274) ( 0.7999) ( 0.4001) (-0.1310)]
+ [( 0.0148) ( 0.2136) (-0.1999) ( 0.7999) ( 0.5238)]
+ [(-0.0234) (-0.2569) ( 0.2136) (-0.4274) ( 0.8397)]
+ [( 0.9994) (-0.0242) ( 0.0148) (-0.0144) ( 0.0093)]]
+The O Matrix (to 9 decimal places):
+ [[( 0.010124460) ( 0.839702666) ( 0.523797915) (-0.131003782)  ( 0.057189871)]
+ [(-0.015201757) (-0.427434145) ( 0.799887373) ( 0.400109727)  (-0.131001355)]
+ [( 0.014822755) ( 0.213629625) (-0.199890114) ( 0.799892944)  ( 0.523791838)]
+ [(-0.023380660) (-0.256859820) ( 0.213635598) (-0.427449055)  ( 0.839716330)]
+ [( 0.999449865) (-0.024184722) ( 0.014822541) (-0.014449894)  ( 0.009303735)]]
+
+
+Correctness of the solution
+
+O acting on v should yield w:
+ [( 0.404720774) ( 0.627683942) ( 0.641813635) ( 0.174037992) (-0.000000000)]
+
+If O is orthogonal, the following should be identity
+O.T.dot(O) =
+ [[( 1.0000) ( 0.0000) (-0.0000) ( 0.0000) ( 0.0000)]
+ [( 0.0000) ( 1.0000) ( 0.0000) ( 0.0000) ( 0.0000)]
+ [(-0.0000) ( 0.0000) ( 1.0000) (-0.0000) ( 0.0000)]
+ [( 0.0000) ( 0.0000) (-0.0000) ( 1.0000) (-0.0000)]
+ [( 0.0000) ( 0.0000) ( 0.0000) (-0.0000) ( 1.0000)]]
+ 
+The certificate (valid if all non-negative)
+ [(-0.000000000) ( 0.000000000) ( 0.000001583) ( 1.654069915) ( 999998.945928502)]
+```
+
+The associated raw ipython notebook is present in the [numerics folder](\numerics).
 
 
 
