@@ -77,7 +77,7 @@ The certificate (valid if all non-negative)
  [(-0.000000000) ( 0.000000000) ( 0.000001583) ( 1.654069915) ( 999998.945928502)]
 ```
 
-The associated raw ipython notebook is present in the [numerics folder](/numerics).
+The associated raw ipython notebook is present in the [numerics folder](./numerics).
 
 
 
