@@ -1,4 +1,4 @@
-# Weak Coin Flipping
+# Quantum Weak Coin Flipping
 
 ### Abstract
 
@@ -8,18 +8,19 @@ The [extended abstract](./QIP_2019_abstract_WCF_1v1.pdf) submitted to QIP is als
 
 
 
-### Mathematical/Technical Draft
+### Draft
 
 The current version of the [draft](./WCF_0v8c.pdf) is 0v8c which was updated on October 17, 2018.
 
-| Versions                   | Release Date     | Remark                                                       |
-| -------------------------- | ---------------- | ------------------------------------------------------------ |
-| [WCF_0v8c](./WCF_0v8c.pdf) | October 17, 2018 | Improved plots/figures; added intuition for in the discussion of the algorithm. |
-| [WCF_0v8a](./WCF_0v8a.pdf) | October 2, 2018  | QIP submission                                               |
+| Versions                   | Release Date                | Remark                                                       |
+| -------------------------- | --------------------------- | ------------------------------------------------------------ |
+| TBA                        | (upcoming) November 2, 2018 | A more comprehensive introduction; font size and margins improved; various minor improvements. |
+| [WCF_0v8c](./WCF_0v8c.pdf) | October 17, 2018            | Improved plots/figures; added intuition for in the discussion of the algorithm. |
+| [WCF_0v8a](./WCF_0v8a.pdf) | October 2, 2018             | It exists therefore I think.                                 |
 
 
 
-### Numerical Implementation
+### EMA Algorithm | Numerical Implementation
 
 A [partial implementation](https://mybinder.org/v2/gh/AtulSinghArora/QR/master?filepath=WCF/numerics/EMA_demo.ipynb) of the EMA algorithm, applied to a 5&rarr; 4 move taken from Mochon's bias 1/18 game is given below as an example.
 
