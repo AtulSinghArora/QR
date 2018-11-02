@@ -12,7 +12,7 @@ The [extended abstract](./QIP_2019_abstract_WCF_1v1.pdf) submitted to QIP is als
 
 The current version of the [draft](./WCF_0v8c.pdf) is 0v8c which was updated on October 17, 2018.
 
-| Versions                   | Release Date                | Remark                                                       |
+| Versions                   | Release Date                | Remark(s)                                                    |
 | -------------------------- | --------------------------- | ------------------------------------------------------------ |
 | TBA                        | (upcoming) November 2, 2018 | A more comprehensive introduction; font size and margins improved; various minor improvements. |
 | [WCF_0v8c](./WCF_0v8c.pdf) | October 17, 2018            | Improved plots/figures; added intuition for in the discussion of the algorithm. |
@@ -22,7 +22,7 @@ The current version of the [draft](./WCF_0v8c.pdf) is 0v8c which was updated on 
 
 ### EMA Algorithm | Numerical Implementation
 
-A [partial implementation](https://mybinder.org/v2/gh/AtulSinghArora/QR/master?filepath=WCF/numerics/EMA_demo.ipynb) of the EMA algorithm, applied to a 5&rarr; 4 move taken from Mochon's bias 1/18 game is given below as an example.
+A [preliminary implementation](https://mybinder.org/v2/gh/AtulSinghArora/QR/master?filepath=WCF/numerics/EMA_demo.ipynb) of the EMA algorithm, applied to a 5&rarr; 4 move taken from Mochon's bias 1/18 game is given below as an example.
 
 ```
 For a 5->4 Mochon's bias 1/18 game
@@ -63,7 +63,7 @@ The O Matrix (to 9 decimal places):
 
 Correctness of the solution
 
-O acting on v should yield w:
+O acting on v (should yield w):
  [( 0.404720774) ( 0.627683942) ( 0.641813635) ( 0.174037992) (-0.000000000)]
 
 If O is orthogonal, the following should be identity
