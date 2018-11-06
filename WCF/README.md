@@ -10,13 +10,13 @@ The [extended abstract](./QIP_2019_abstract_WCF_1v1.pdf) submitted to QIP is als
 
 ### Draft
 
-The current version of the [draft](./WCF_0v8c.pdf) is 0v8c which was updated on October 17, 2018.
+The current version of the [draft](./WCF_0v11c.pdf) is 0v11c which was updated on November 5, 2018. 
 
-| Versions                   | Release Date                | Remark(s)                                                    |
-| -------------------------- | --------------------------- | ------------------------------------------------------------ |
-| TBA                        | (upcoming) November 2, 2018 | A more comprehensive introduction; font size and margins improved; various minor improvements. |
-| [WCF_0v8c](./WCF_0v8c.pdf) | October 17, 2018            | Improved plots/figures; added intuition for in the discussion of the algorithm. |
-| [WCF_0v8a](./WCF_0v8a.pdf) | October 2, 2018             | It exists therefore I think.                                 |
+| Versions                     | Release Date     | Remark(s)                                                    |
+| ---------------------------- | ---------------- | ------------------------------------------------------------ |
+| [WCF_0v11c](./WCF_0v11c.pdf) | November 5, 2018 | A more comprehensive introduction; font size and margins improved; various minor improvements. |
+| [WCF_0v8c](./WCF_0v8c.pdf)   | October 17, 2018 | Improved plots/figures; added intuition for in the discussion of the algorithm. |
+| [WCF_0v8a](./WCF_0v8a.pdf)   | October 2, 2018  | It exists therefore I think.                                 |
 
 
 
