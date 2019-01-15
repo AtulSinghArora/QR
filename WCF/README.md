@@ -6,7 +6,7 @@ We investigate weak coin flipping, a fundamental cryptographic primitive where t
 
 The [extended abstract](./QIP_2019_abstract_WCF_1v1.pdf) submitted to QIP is also available.
 
-## Presentation
+### Presentation
 
 QIP Presentation. Coin flipping, where weakeness is a virtue. [[pptx](https://github.com/AtulSinghArora/QR/raw/master/WCF/Coin_flipping%2C_where_weakness_is_a_virtue.pptx)] [[pdf](https://github.com/AtulSinghArora/QR/raw/master/WCF/Coin_flipping%2C_where_weakness_is_a_virtue_pdfOptimised.pdf)]
 
