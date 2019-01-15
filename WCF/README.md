@@ -8,10 +8,7 @@ The [extended abstract](./QIP_2019_abstract_WCF_1v1.pdf) submitted to QIP is als
 
 ## Presentation
 
-QIP Presentation. Coin flipping, where weakeness is a virtue. [[pptx](./Coin_flipping,_where_weakness_is_a_virtue.pptx)]
-[[pdf](Coin_flipping,_where_weakness_is_a_virtue_pdfOptimised.pdf)]
-[[pptx](https://github.com/AtulSinghArora/QR/raw/master/WCF/Coin_flipping%2C_where_weakness_is_a_virtue.pptx)]
-[[pdf](https://github.com/AtulSinghArora/QR/raw/master/WCF/Coin_flipping%2C_where_weakness_is_a_virtue.pdf)]
+QIP Presentation. Coin flipping, where weakeness is a virtue. [[pptx](https://github.com/AtulSinghArora/QR/raw/master/WCF/Coin_flipping%2C_where_weakness_is_a_virtue.pptx)] [[pdf](https://github.com/AtulSinghArora/QR/raw/master/WCF/Coin_flipping%2C_where_weakness_is_a_virtue_pdfOptimised.pdf)]
 
 ### Draft
 
