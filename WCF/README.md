@@ -17,7 +17,7 @@ We investigate weak coin flipping, a fundamental cryptographic primitive where t
 
 Both the presentations are nearly identical.
 
-* STOC '19 Presentation. Quantum Coin Flipping–where weakness is a virtue. [[pptx](./STOC19_Coin flipping, where weakness is a virtue.pptx)]
+* STOC '19 Presentation. Quantum Coin Flipping–where weakness is a virtue. [[pptx](./STOC19_Coin_flipping_where_weakness_is_a_virtue.pptx)]
 
 * QIP '19 Presentation. Coin flipping, where weakness is a virtue. [[pptx](https://github.com/AtulSinghArora/QR/raw/master/WCF/Coin_flipping%2C_where_weakness_is_a_virtue.pptx)] [[pdf](https://github.com/AtulSinghArora/QR/raw/master/WCF/Coin_flipping%2C_where_weakness_is_a_virtue_pdfOptimised.pdf)]
 
