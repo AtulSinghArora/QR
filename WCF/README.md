@@ -4,15 +4,32 @@
 
 We investigate weak coin flipping, a fundamental cryptographic primitive where two distrustful parties need to remotely establish a shared random bit. A cheating player can try to bias the output bit towards a preferred value. For weak coin flipping the players have known opposite preferred values. A weak coin-flipping protocol has a bias ε if neither player can force the outcome towards his/her preferred value with probability more than 1/2+ε. While it is known that classically ε=1/2, Mochon showed in 2007 [1] that quantumly weak coin flipping can be achieved with arbitrarily small bias (near perfect) but the best known explicit protocol has bias 1/6 (also due to Mochon, 2005 [2]). We propose a framework to construct new explicit protocols achieving biases beyond 1/6. In particular, we construct explicit unitaries for protocols with bias up to 1/10. To go beyond, we introduce what we call the Elliptic Monotone Align (EMA) algorithm which, together with the framework, allows us to construct protocols with arbitrarily small biases.
 
-The extended abstract submitted to [QIP](./QIP_2019_abstract_WCF_1v1.pdf) (3 pages) and to [STOC](./WCF_STOC_0v4.pdf) (12 pages).
 
-### Presentation
 
-QIP Presentation. Coin flipping, where weakeness is a virtue. [[pptx](https://github.com/AtulSinghArora/QR/raw/master/WCF/Coin_flipping%2C_where_weakness_is_a_virtue.pptx)] [[pdf](https://github.com/AtulSinghArora/QR/raw/master/WCF/Coin_flipping%2C_where_weakness_is_a_virtue_pdfOptimised.pdf)]
+### Articles
 
-### Draft
+* Peer-reviewed extended draft: 12 page [STOC version](./stoc19main-p19-p-58b08d9-40827-final.pdf).
+* Full version: [arXiv:1811.02984](http://arxiv.org/abs/1811.02984)
 
-The draft is now on (the) arXiv, see [arXiv:1811.02984](http://arxiv.org/abs/1811.02984).
+
+
+### Presentations
+
+Both the presentations are nearly identical.
+
+* STOC '19 Presentation. Quantum Coin Flipping–where weakness is a virtue. [[pptx](./STOC19_Coin flipping, where weakness is a virtue.pptx)]
+
+* QIP '19 Presentation. Coin flipping, where weakness is a virtue. [[pptx](https://github.com/AtulSinghArora/QR/raw/master/WCF/Coin_flipping%2C_where_weakness_is_a_virtue.pptx)] [[pdf](https://github.com/AtulSinghArora/QR/raw/master/WCF/Coin_flipping%2C_where_weakness_is_a_virtue_pdfOptimised.pdf)]
+
+
+
+### Drafts
+
+*Latest version*: Last draft is on (the) arXiv (see [arXiv:1811.02984](http://arxiv.org/abs/1811.02984)). 
+
+*Errata*: Known issues are highlighted [here](./CF_arXiv_1811.02984_revisiting).
+
+*Submissions*: The extended abstract submitted to [QIP](./QIP_2019_abstract_WCF_1v1.pdf) (3 pages) and to [STOC](./WCF_STOC_0v4.pdf) (12 pages).
 
 | Versions                     | Release Date     | Remark(s)                                                    |
 | ---------------------------- | ---------------- | ------------------------------------------------------------ |
@@ -120,7 +137,7 @@ The associated raw ipython notebook is present in the [numerics folder](./numeri
 All of us were affiliated with the Université libre de Bruxelles (ULB) when contributions were made to the work. Our group [QuIC website](http://quic.ulb.ac.be) may be of interest. Our contact information
 - [Atul Singh Arora](https://atulsingharora.github.io) 
 	- aarora@ulb.ac.be, atul.singh.arora@gmail.com
-- Jérémie Roland
+- [Jérémie Roland](<http://quic.ulb.ac.be/members/jroland>)
 	- jroland@ulb.ac.be
 - Stephan Weis
 	- maths@weis-stephan.de
