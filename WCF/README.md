@@ -8,7 +8,7 @@ We investigate weak coin flipping, a fundamental cryptographic primitive where t
 
 ### Articles
 
-* Peer-reviewed extended draft: 12 page [STOC version](./stoc19main-p19-p-58b08d9-40827-final.pdf).
+* Peer-reviewed extended abstract: 12 page [STOC version](./stoc19main-p19-p-58b08d9-40827-final.pdf).
 * Full version: [arXiv:1811.02984](http://arxiv.org/abs/1811.02984)
 
 
