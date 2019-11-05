@@ -59,8 +59,8 @@ All of us were affiliated with the Université libre de Bruxelles (ULB) when con
 	- aarora@ulb.ac.be, atul.singh.arora@gmail.com
 - [Jérémie Roland](<http://quic.ulb.ac.be/members/jroland>)
 	- jroland@ulb.ac.be
-- Stephan Weis
-	- maths@weis-stephan.de
+- Chrysoula Vlachou
+	- Chrysoula.Vlachou@ulb.ac.be 
 
 
 
