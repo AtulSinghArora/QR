@@ -22,6 +22,11 @@ We investigate weak coin flipping, a fundamental cryptographic primitive where t
 ### Known Issues (version Nov 5, 2019)
 
 1. Page 2
+	* $P^*_{A/B}\le \frac{1}{2} + \epsilon$ as opposed to the equality.
+
+Τypos
+
+1. Page 2
 	* Space after [Blu83]
 	* "the positive quadrant of the x–y plane [See Figure]", figure missing
 2. Page 5
