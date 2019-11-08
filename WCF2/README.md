@@ -15,9 +15,17 @@ We investigate weak coin flipping, a fundamental cryptographic primitive where t
 
 | Versions                     | Release Date     | Remark(s)                                                    |
 | ---------------------------- | ---------------- | ------------------------------------------------------------ |
-| [analyticCF1_1v0_STOC_submission](./analyticCF1_1v0_submissionSTOC.pdf)   | November 5, 2019  | Submitted to STOC 2020.                                 |
+| [analyticCF1_1v0_STOC_submission](./analyticCF1_1v0_submissionSTOC.pdf)   | November 5, 2019  | Submitted to STOC 2020. (see [known issues](#known-issues-version-Nov-5-2019)) |
 
 
+
+### Known Issues (version Nov 5, 2019)
+
+1. Page 2
+	* Space after [Blu83]
+	* "the positive quadrant of the x–y plane [See Figure]", figure missing
+2. Page 5
+	* The statement, "We now give a (known) formula for the associated support function", has been mistakenly left here. 
 
 
 
