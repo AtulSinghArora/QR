@@ -27,7 +27,7 @@ Both the presentations are nearly identical.
 
 *Latest version*: Last draft is on (the) arXiv (see [arXiv:1811.02984](http://arxiv.org/abs/1811.02984)). 
 
-*Errata*: Known issues are highlighted [here](./CF_arXiv_1811.02984_revisiting).
+*Errata*: Known issues are highlighted [here](./CF_arXiv_1811.02984_v2_revisiting).
 
 *Submissions*: The extended abstract submitted to [QIP](./QIP_2019_abstract_WCF_1v1.pdf) (3 pages) and to [STOC](./WCF_STOC_0v4.pdf) (12 pages).
 
