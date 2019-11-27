@@ -22,7 +22,7 @@ We investigate weak coin flipping, a fundamental cryptographic primitive where t
 ### Known Issues (version Nov 5, 2019)
 
 1. Page 2
-	* $P^*_{A/B}\le \frac{1}{2} + \epsilon$ as opposed to the equality.
+	* <img src="/WCF2/tex/aeccf52d7964f8fd476fc0b6fe2658fa.svg?invert_in_darkmode&sanitize=true" align=middle width=97.66817114999999pt height=27.77565449999998pt/> as opposed to the equality.
 
 Τypos
 
