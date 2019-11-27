@@ -2,7 +2,7 @@
 
 ### Abstract
 
-We investigate weak coin flipping, a fundamental cryptographic primitive where two distrustful parties need to remotely establish a shared random bit. A cheating player can try to bias the output bit towards a preferred value. For weak coin flipping the players have known opposite preferred values. A weak coin-flipping protocol has a bias ε if neither player can force the outcome towards his/her preferred value with probability more than 1/2+ε. While it is known that classically ε=1/2, Mochon showed in 2007 [1] that quantumly weak coin flipping can be achieved with arbitrarily small bias (near perfect) but the best known explicit protocol has bias 1/6 (also due to Mochon, 2005 [2]). We propose a framework to construct new explicit protocols achieving biases beyond 1/6. In particular, we construct explicit unitaries for protocols with bias up to 1/10. To go beyond, we introduce what we call the Elliptic Monotone Align (EMA) algorithm which, together with the framework, allows us to construct protocols with arbitrarily small biases.
+We investigate weak coin flipping, a fundamental cryptographic primitive where two distrustful parties need to remotely establish a shared random bit. A cheating player can try to bias the output bit towards a preferred value. For weak coin flipping the players have known opposite preferred values. A weak coin-flipping protocol has a bias ε if neither player can force the outcome towards his/her preferred value with probability more than 1/2+ε. While it is known that classically ε=1/2, Mochon showed in 2007 [1] that quantumly weak coin flipping can be achieved with arbitrarily small bias (near perfect) but the best known explicit protocol has bias 1/6 (also due to Mochon, 2005 [2]). We propose a framework to construct new explicit protocols achieving biases below 1/6. In particular, we construct explicit unitaries for protocols with bias up to 1/10. To go below, we introduce what we call the Elliptic Monotone Align (EMA) algorithm which, together with the framework, allows us to numerically construct protocols with arbitrarily small biases.
 
 
 
@@ -31,11 +31,12 @@ Both the presentations are nearly identical.
 
 *Submissions*: The extended abstract submitted to [QIP](./QIP_2019_abstract_WCF_1v1.pdf) (3 pages) and to [STOC](./WCF_STOC_0v4.pdf) (12 pages).
 
-| Versions                     | Release Date     | Remark(s)                                                    |
-| ---------------------------- | ---------------- | ------------------------------------------------------------ |
-| [WCF_0v11c](./WCF_0v11c.pdf) | November 5, 2018 | A more comprehensive introduction; font size and margins improved; various minor improvements. Uploaded to (the) arXiv. |
-| [WCF_0v8c](./WCF_0v8c.pdf)   | October 17, 2018 | Improved plots/figures; added intuition for in the discussion of the algorithm. |
-| [WCF_0v8a](./WCF_0v8a.pdf)   | October 2, 2018  | It exists therefore I think.                                 |
+| Versions                     | Release Date      | Remark(s)                                                    |
+| ---------------------------- | ----------------- | ------------------------------------------------------------ |
+| [WCF_0v11d](./WCF_0v11d.pdf) | November 26, 2019 | Made minor improvements and addressed referees' comments; clarified the narrative, fixed tenses (grammar), fixed various typographical errors. Revised the arXiv version. |
+| [WCF_0v11c](./WCF_0v11c.pdf) | November 5, 2018  | A more comprehensive introduction; font size and margins improved; various minor improvements. Uploaded to (the) arXiv. |
+| [WCF_0v8c](./WCF_0v8c.pdf)   | October 17, 2018  | Improved plots/figures; added intuition for in the discussion of the algorithm. |
+| [WCF_0v8a](./WCF_0v8a.pdf)   | October 2, 2018   | It exists therefore I think.                                 |
 
 
 
