@@ -25,7 +25,7 @@ We investigate weak coin flipping, a fundamental cryptographic primitive where t
 	* <img src="/WCF2/tex/aeccf52d7964f8fd476fc0b6fe2658fa.svg?invert_in_darkmode&sanitize=true" align=middle width=97.66817114999999pt height=27.77565449999998pt/> as opposed to the equality.
 	* The statement "while in the final frame there is only one point with coordinates <img src="/WCF2/tex/4b1bdcff2daee73a371a2b8c56c36071.svg?invert_in_darkmode&sanitize=true" align=middle width=37.18036244999999pt height=24.65753399999998pt/>" should have <img src="/WCF2/tex/c745b9b57c145ec5577b82542b2df546.svg?invert_in_darkmode&sanitize=true" align=middle width=10.57650494999999pt height=14.15524440000002pt/>  and <img src="/WCF2/tex/8217ed3c32a785f0b5aad4055f432ad8.svg?invert_in_darkmode&sanitize=true" align=middle width=10.16555099999999pt height=22.831056599999986pt/> swapped.
 2. Page 8
-   * First line of the proof (of Lemma 13), $(*,*,*,D^{k})$ should not be present.
+   * First line of the proof (of Lemma 13), $(\*,\*,\*,D^{k})$ should not be present.
 3. Page 12
    * The matrix instance should have the kets $v$ and $w$ swapped.
 4. Page 23
