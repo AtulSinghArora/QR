@@ -25,7 +25,7 @@ We investigate weak coin flipping, a fundamental cryptographic primitive where t
 	* $P^*_{A/B}\le \frac{1}{2} + \epsilon$ as opposed to the equality.
 	* The statement "while in the final frame there is only one point with coordinates $\left[  \alpha, \beta \right]$" should have $\alpha$  and $\beta$ swapped.
 2. Page 8
-   * First line of the proof (of Lemma 13), $(*,*,*,D^{k})$ should not be present.
+   * First line of the proof (of Lemma 13), $(\*,\*,\*,D^{k})$ should not be present.
 3. Page 12
    * The matrix instance should have the kets $v$ and $w$ swapped.
 4. Page 23
