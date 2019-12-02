@@ -2,7 +2,7 @@
 
 ### Abstract
 
-We investigate weak coin flipping, a fundamental cryptographic primitive where two distrustful parties need to remotely establish a shared random bit. A cheating player can try to bias the output bit towards a preferred value. A weak coin-flipping protocol has a bias ε if neither player can force the outcome towards their preferred value with probability more than 1/2+ε. While it is known that classically ε=1/2, Mochon showed in 2007 that quantumly weak coin flipping can be achieved with arbitrarily small bias, i.e. ε(k)=1/(4k+2) for arbitrarily large k, and he proposed an explicit protocol approaching bias 1/6 . So far, the best known explicit protocol is the one by Arora et al, with ε(2)=1/10 (corresponding to k=2) . In the current work, we present the construction of protocols approaching arbitrarily close to zero bias, i.e. ε(k) for arbitrarily large k. We connect the algebraic properties of Mochon's assignments—at the heart of his proof of existence—with the geometric properties of the unitaries whose existence he proved. It is this connection that allows us to find these unitaries analytically. In particular, we find that the key unitary involved in the bias 1/10 protocol can be seen as an elementary example of the general solution.
+We investigate weak coin flipping, a fundamental cryptographic primitive where two distrustful parties need to remotely establish a shared random bit. A cheating player can try to bias the output bit towards a preferred value. A weak coin-flipping protocol has a bias ε if neither player can force the outcome towards their preferred value with probability more than $1/2+\epsilon$. While it is known that classically $\epsilon=1/2$, Mochon showed in 2007 that quantumly weak coin flipping can be achieved with arbitrarily small bias, i.e. $\epsilon(k)=1/(4k+2)$ for arbitrarily large k, and he proposed an explicit protocol approaching bias $1/6$ . So far, the best known explicit protocol is the one by Arora et al, with $\epsilon(2)=1/10$ (corresponding to k=2) . In the current work, we present the construction of protocols approaching arbitrarily close to zero bias, i.e. $\epsilon(k)$ for arbitrarily large $k$. We connect the algebraic properties of Mochon's assignments—at the heart of his proof of existence—with the geometric properties of the unitaries whose existence he proved. It is this connection that allows us to find these unitaries analytically. 
 
 
 
@@ -10,11 +10,12 @@ We investigate weak coin flipping, a fundamental cryptographic primitive where t
 
 ### Drafts
 
-*Latest version*: 
+*Latest version*: Last draft is on the arXiv (see [arXiv:1911.13283](https://arxiv.org/abs/1911.13283)).
 
 
 | Versions                     | Release Date     | Remark(s)                                                    |
 | ---------------------------- | ---------------- | ------------------------------------------------------------ |
+| [analyticCF1_1v3](./analyticCF1_1v3) | November 29, 2019 | Various minor improvements and added an argument to clarify some proofs. Uploaded to the arXiv. |
 | [analyticCF1_1v0_STOC_submission](./analyticCF1_1v0_submissionSTOC.pdf)   | November 5, 2019  | Submitted to STOC 2020. (see [known issues](#known-issues-version-Nov-5-2019)) |
 
 
@@ -25,7 +26,7 @@ We investigate weak coin flipping, a fundamental cryptographic primitive where t
 	* $P^*_{A/B}\le \frac{1}{2} + \epsilon$ as opposed to the equality.
 	* The statement "while in the final frame there is only one point with coordinates $\left[  \alpha, \beta \right]$" should have $\alpha$  and $\beta$ swapped.
 2. Page 8
-   * First line of the proof (of Lemma 13), (\*,\*,\*,D^k) should not be present.
+   * First line of the proof (of Lemma 13), the term with $D$ should not be present.
 3. Page 12
    * The matrix instance should have the kets $v$ and $w$ swapped.
 4. Page 23
