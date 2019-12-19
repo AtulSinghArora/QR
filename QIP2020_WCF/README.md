@@ -28,14 +28,13 @@ existence he proved. It is this connection that allows us to find these unitarie
   Carlos Mochon  
   [Large family of quantum weak coin-flipping protocols](https://arxiv.org/abs/quant-ph/0502068) (2005 in [Phys Rev A](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.72.022341))
 
-* Current best known explicit weak coin flipping protocol (bias 1/10) and the Elliptic Monotone Align (EMA) algorithm which can numerically yield near zero bias protocols.
+* Current best known explicit weak coin flipping protocol (bias 1/10) and the Elliptic Monotone Align (EMA) algorithm which can numerically yield near zero bias protocols.  
 
-Arora, Roland, Weis.
+  Arora, Roland, Weis.  
 
-[arXiv:1811.02984](https://arxiv.org/abs/1811.02984). [51st ACM Symposium on Theory of Computing (STOC'19), pages 205-216, 2019](http://dx.doi.org/10.1145/3313276.3316306). [ Web](https://atulsingharora.github.io/WCF).
+  [arXiv:1811.02984](https://arxiv.org/abs/1811.02984). [51st ACM Symposium on Theory of Computing (STOC'19), pages 205-216, 2019](http://dx.doi.org/10.1145/3313276.3316306). [ Web](https://atulsingharora.github.io/WCF).
 
 * Kitaev's contributions:  
-
 
   Alexei Kitaev  
   Quantum coin flipping. Talk at the 6th workshop on Quantum Information Processing, 2003.
