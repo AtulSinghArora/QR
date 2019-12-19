@@ -53,7 +53,7 @@ All of us were affiliated with the Université libre de Bruxelles (ULB) when con
 - Jérémie Roland
 	- jroland@ulb.ac.be
 - Chrysoula Vlachou
-	- 
+	- chrisoula.vlachou@ulb.ac.be
 
 
 
