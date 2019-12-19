@@ -1,4 +1,4 @@
-# Explicit Quantum Weak Coin Flipping
+# Almost perfect weak coin flipping protocols
 
 ### Poster
 
