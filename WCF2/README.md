@@ -15,7 +15,7 @@ We investigate weak coin flipping, a fundamental cryptographic primitive where t
 
 | Versions                     | Release Date     | Remark(s)                                                    |
 | ---------------------------- | ---------------- | ------------------------------------------------------------ |
-| [analyticCF1_1v3](./analyticCF1_1v3) | November 29, 2019 | Various minor improvements and added an argument to clarify some proofs. Uploaded to the arXiv. |
+| [analyticCF1_1v3](./analyticCF1_1v3.pdf) | November 29, 2019 | Various minor improvements and added an argument to clarify some proofs. Uploaded to the arXiv. |
 | [analyticCF1_1v0_STOC_submission](./analyticCF1_1v0_submissionSTOC.pdf)   | November 5, 2019  | Submitted to STOC 2020. (see [known issues](#known-issues-version-Nov-5-2019)) |
 
 
