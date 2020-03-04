@@ -4,7 +4,7 @@
 
 Thank you for visiting the page. You might just be the only visitor. Congratulations!
 
-The talk was based on two works and some unpublished results. You can find the description of TEF, the 1/10 bias protocol and the EMA algorithm [here](../WCF/README.MD) and results about the analytic solution [here](../WCF2/README.MD) (we intend to update the article with the solution we presented).
+The talk was based on two works and some unpublished results. You can find the description of TEF, the 1/10 bias protocol and the EMA algorithm [here](../WCF/README.md) and results about the analytic solution [here](../WCF2/README.md) (we intend to update the article with the solution we presented).
 
 
 
