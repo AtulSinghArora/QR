@@ -10,7 +10,9 @@ The talk was based on two works and some unpublished results. You can find the d
 
 ### Downloads
 
-[Presentation](./PI_March_2020_CF_analytic_simplified.pptx); [arXiv:1911.13283](https://arxiv.org/abs/1911.13283); [arXiv:1811.02984](http://arxiv.org/abs/1811.02984) ([STOC version](https://github.com/AtulSinghArora/QR/blob/master/WCF/stoc19main-p19-p-58b08d9-40827-final.pdf)).
+* [Presentation](./PI_March_2020_CF_analytic_simplified.pptx); 
+* [arXiv:1911.13283](https://arxiv.org/abs/1911.13283); 
+* [arXiv:1811.02984](http://arxiv.org/abs/1811.02984) ([STOC version](https://github.com/AtulSinghArora/QR/blob/master/WCF/stoc19main-p19-p-58b08d9-40827-final.pdf)).
 
 
 
