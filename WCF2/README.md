@@ -8,7 +8,8 @@ Weak coin flipping (WCF) is a fundamental cryptographic primitive for two-party 
 
 ### Remark
 
-In the previous version of this article we presented a geometric solution. The new solution is simpler and more compact. We intend to release a full version with both solutions in the coming months.
+In the previous version of this article we presented a geometric solution. This relied on the tools we introduced in [STOC'19, p.205-216]. The new solution is algebraic and does not require them. The solution is therefore simpler and more compact. 
+We intend to release a full version with both solutions in the coming months, for completeness, as the geometric solution might pave the way for more efficient solutions—we guessed the structure of the algebraic solution using the geometric solution itself.
 
 
 
