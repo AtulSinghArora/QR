@@ -19,10 +19,10 @@ In the previous version of this article we presented a geometric solution. The n
 
 | Versions                     | Release Date     | Remark(s)                                                    | Hindsight                                           |
 | ---------------------------- | ---------------- | ------------------------------------------------------------ | ---------------------------- |
-| [WCF_Article_algebraic_SODA](./WCF_Article_algebraic_SODA.pdf) | July 13, 2020 | SODA submission (with FOCS-referee suggestions accommodated) [*] | Simplified Algebraic Solution |
-| [WCF_Article_algebraic_1v3_submission](./WCF_Article_algebraic_1v3_submission.pdf) |  | FOCS 2020 submission [EDIT: rejected] | Simplified Algebraic Solution |
+| [WCF_Article_algebraic_SODA](./WCF_Article_algebraic_SODA.pdf) | July 13, 2020 | SODA submission [*] <br />(with FOCS-referee suggestions accommodated) | Simplified Algebraic Solution |
+| [WCF_Article_algebraic_1v3_submission](./WCF_Article_algebraic_1v3_submission.pdf) |  | FOCS 2020 submission <br />(addressed the main criticism from the STOC reviews) <br />[EDIT: rejected] | Simplified Algebraic Solution |
 | [analyticCF1_1v3](./analyticCF1_1v3.pdf) | November 29, 2019 | Various minor improvements and added an argument to clarify some proofs. Uploaded to the arXiv. | Geometric Solution |
-| [analyticCF1_1v0_STOC_submission](./analyticCF1_1v0_submissionSTOC.pdf)   | November 5, 2019  | STOC 2020 submission (see [known issues](#known-issues-version-Nov-5-2019)) [EDIT: rejected] | Geometric Solution |
+| [analyticCF1_1v0_STOC_submission](./analyticCF1_1v0_submissionSTOC.pdf)   | November 5, 2019  | STOC 2020 submission (see [known issues](#known-issues-version-Nov-5-2019)) <br />[EDIT: rejected] | Geometric Solution |
 
 
 
