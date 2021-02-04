@@ -13,6 +13,12 @@ We intend to release a full version with both solutions in the coming months, fo
 
 
 
+### Article
+
+https://doi.org/10.1137/1.9781611976465.58
+
+
+
 ### Drafts
 
 *Latest version*: The latest draft has been updated on the arXiv (see [arXiv:1911.13283](https://arxiv.org/abs/1911.13283)).
