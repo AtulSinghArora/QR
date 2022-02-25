@@ -15,3 +15,10 @@ References mentioned in the poster.
 * [Chia, Chung, Lai (STOC '20)](https://arxiv.org/abs/1909.10303)
 * [Coudron, Menda (STOC '20)](https://arxiv.org/abs/1909.10503)
 
+### Authors
+
+| Author | Affiliation | email |
+|-|-|-|
+| Atul Singh Arora | atul.singh.arora@gmail.com, asarora@caltech.edu | IQIM, Caltech | 
+|Alexandur Gheorghiu | agheorghiu@ethz.ch |Institute for Theoretical Studies, ETH Zürich |
+| Uttam Singh | uttam@cft.edu.pl | Centre for Theoretical Physics, Polish Academy of Sciences |
