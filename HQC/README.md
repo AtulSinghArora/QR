@@ -20,5 +20,5 @@ References mentioned in the poster.
 | Author | Affiliation | email |
 |-|-|-|
 | Atul Singh Arora | atul.singh.arora@gmail.com, asarora@caltech.edu | IQIM, Caltech | 
-|Alexandur Gheorghiu | agheorghiu@ethz.ch |Institute for Theoretical Studies, ETH Zürich |
+|Alexandru Gheorghiu | agheorghiu@ethz.ch |Institute for Theoretical Studies, ETH Zürich |
 | Uttam Singh | uttam@cft.edu.pl | Centre for Theoretical Physics, Polish Academy of Sciences |
