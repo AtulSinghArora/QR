@@ -26,8 +26,8 @@ For my doctoral dissertation (Sep 2022), I was advised by Jérémie ROLAND at [U
 
 *Atul Singh Arora, Andrea Coladangelo, Matthew Coudron, Alexandru Gheorghiu, Uttam Singh, Hendrik Waldner*
 
-<sub> Oct 2022 [ [arXiv]() | [GitHub](gla) ] —— Nov 2022 [submitted]  </sub>
-
+<sub> Oct 2022 [ [arXiv]() | [GitHub](gla) ] —— Nov 2022 [submitted]  </sub>  
+<sub>104 pages (+9 page Appendix), 10 figures
 </summary>
 
 > We give a comprehensive characterisation of the computational power of shallow quantum circuits combined with classical computation. Specifically, for classes of search problems, we show that the following statements hold, relative to a random oracle:  
@@ -45,11 +45,12 @@ For my doctoral dissertation (Sep 2022), I was advised by Jérémie ROLAND at [U
 ### Self-Testing of a Single Quantum System: Theory and Experiment
 *Xiao-Min Hu, Yi Xie, Atul Singh Arora, Ming-Zhong Ai, Kishor Bharti, Jie Zhang, Wei Wu, Ping-Xing Chen, Jin-Ming Cui, Bi-Heng Liu, Yun-Feng Huang, Chuan-Feng Li, Guang-Can Guo, Jérémie Roland, Adán Cabello, Leong-Chuan Kwek*
 
-\[ [GitHub](gla) | [arXiv]() | submitted \]
-
+<sub> Mar 2022 [ [arXiv]() | [GitHub](gla) ] —— [submitted]  </sub>  
+<sub>19+6 pages, 2+1 figures</sub>
 </summary>
 
 </details>
+
 
 
 [arXiv | list of publications](https://arxiv.org/search/quant-ph?searchtype=author&query=Arora%2C+A+S)
