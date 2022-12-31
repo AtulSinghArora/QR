@@ -8,7 +8,7 @@ I am a postdoctoral researcher at [Caltech](https://iqim.caltech.edu/people/post
 
 I am fascinated by the emergence of physical insight from the application of quantum mechanics to solving computational or cryptographic tasks. I was initially drawn to the field by the possibility of having information theoretic security in certain cryptographic settings (e.g. key distribution, coin flipping). Currently, I am excited by the prospect of understanding and testing various aspects of quantum mechanics under computational assumptions (e.g. collapse binding, compressed oracle simulation, quantum depth). 
 
-<sub> ⟨ atul.singh.arora@gmail.com | asarora@caltech.edu ⟩ </sub>
+<sub> [ atul.singh.arora@gmail.com | asarora@caltech.edu ] </sub>
 
 
 
@@ -16,7 +16,7 @@ I am fascinated by the emergence of physical insight from the application of qua
 
 For my doctoral dissertation (Sep 2022), I was advised by Jérémie ROLAND at [Université libre de Bruxelles](http://quic.ulb.ac.be/members/past). I obtained my Bachelor's and Master's (May 2016) from [IISER Mohali](https://www.iisermohali.ac.in/students/people-sublinks/bs-ms-2011-batch), (India). I majored in physics and my master's thesis advisor was Prof Arvind. 
 
-<sub>⟨ [curriculum vitae](https://atulsingharora.github.io/CV/cv.pdf) ⟩ </sub>
+<sub>[ [curriculum vitae](https://atulsingharora.github.io/CV/cv.pdf) ] </sub>
 
 
 <!-- 
