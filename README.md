@@ -1,6 +1,3 @@
-## Update | FRIA/FNRS
-Navigate to the folder named [FRIA2018](./FRIA2018)
-
 ## QR Repository
 Intended to host the information I'd like to convey using QR codes primarily in talks and posters. There is a remote possiblity of my website — https://atulsingharora.github.io/ — containing a better representation of this.
 
