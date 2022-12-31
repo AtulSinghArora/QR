@@ -6,7 +6,7 @@
 
 I am a postdoctoral researcher at [Caltech](https://iqim.caltech.edu/people/postdocs/), working under the supervision of Thomas VIDICK (presently at [Weizmann](https://www.weizmann.ac.il/pages/)). 
 
-Given my training in physics, I am fascinated by the emergence of physical insight from the application of quantum mechanics to solving computational or cryptographic tasks. I was initially drawn to the field by the possibility of having information theoretic security in certain cryptographic settings (e.g. key distribution, coin flipping). Currently, I am excited by the prospect of understanding and testing various aspects of quantum mechanics under computational assumptions (e.g. collapse binding, compressed oracle simulation, quantum depth). 
+I am fascinated by the emergence of physical insight from the application of quantum mechanics to solving computational or cryptographic tasks. I was initially drawn to the field by the possibility of having information theoretic security in certain cryptographic settings (e.g. key distribution, coin flipping). Currently, I am excited by the prospect of understanding and testing various aspects of quantum mechanics under computational assumptions (e.g. collapse binding, compressed oracle simulation, quantum depth). 
 
 <sub> ⟨ atul.singh.arora@gmail.com | asarora@caltech.edu ⟩ </sub>
 
@@ -99,7 +99,7 @@ For my doctoral dissertation (Sep 2022), I was advised by Jérémie ROLAND at [U
 
 ### Proposal for a macroscopic test of local realism with phase-space measurements
 
-*Atul S. Arora, Ali Asadian*
+*Atul Singh Arora, Ali Asadian*
 
 <sub> Aug 2015 [ [arXiv](https://arxiv.org/abs/1508.04588)  ] —— 
 [ [Phys Rev A, 2015](https://doi.org/10.1103/PhysRevA.92.062107) ]  
