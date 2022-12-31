@@ -21,7 +21,7 @@ For my doctoral dissertation (Sep 2022), I was advised by Jérémie ROLAND at [U
 
 [arXiv | list of publications](https://arxiv.org/search/quant-ph?searchtype=author&query=Arora%2C+A+S)
 
-## Talks
+
 
 ## Contact
 Email is the best way to reach me: atul.singh.arora@gmail.com, asarora@caltech.edu
