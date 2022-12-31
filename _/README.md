@@ -21,8 +21,11 @@ For my doctoral dissertation (Sep 2022), I was advised by Jérémie ROLAND at [U
 
 <details>
 <summary>
+
 ### Quantum Depth in the Random Oracle Model
 *Atul Singh Arora, Andrea Coladangelo, Matthew Coudron, Alexandru Gheorghiu, Uttam Singh, Hendrik Waldner*
+
+
 </summary>
 
 We give a comprehensive characterisation of the computational power of shallow quantum circuits combined with classical computation. Specifically, for classes of search problems, we show that the following statements hold, relative to a random oracle:
