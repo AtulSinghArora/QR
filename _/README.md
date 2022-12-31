@@ -6,13 +6,17 @@
 
 I am a postdoctoral researcher at [Caltech](https://iqim.caltech.edu/people/postdocs/), working under the supervision of Thomas VIDICK (presently at [Weizmann](https://www.weizmann.ac.il/pages/)). 
 
-Given my training in physics, I am fascinated by the emergence of physical insight from the application of quantum mechanics to solving computational or cryptographic tasks. I was initially drawn to the field by the possibility of having information theoretic security in certain cryptographic settings (e.g. key distribution, coin flipping). Currently, I am excited by the prospect of understanding and testing various aspects of quantum mechanics under computational assumptions (e.g. collapse binding, compressed oracle simulation, quantum depth).
+Given my training in physics, I am fascinated by the emergence of physical insight from the application of quantum mechanics to solving computational or cryptographic tasks. I was initially drawn to the field by the possibility of having information theoretic security in certain cryptographic settings (e.g. key distribution, coin flipping). Currently, I am excited by the prospect of understanding and testing various aspects of quantum mechanics under computational assumptions (e.g. collapse binding, compressed oracle simulation, quantum depth). 
 
-atul.singh.arora@gmail.com, asarora@caltech.edu
+<sub> ⟨ atul.singh.arora@gmail.com | asarora@caltech.edu ⟩ </sub>
+
+
 
 ## Education
 
-For my doctoral dissertation (Sep 2022), I was advised by Jérémie ROLAND at [Université libre de Bruxelles](http://quic.ulb.ac.be/members/past). I obtained my Bachelor's and Master's (May 2016) from [IISER Mohali](https://www.iisermohali.ac.in/students/people-sublinks/bs-ms-2011-batch), (India). I majored in physics and my master's thesis advisor was Prof Arvind.
+For my doctoral dissertation (Sep 2022), I was advised by Jérémie ROLAND at [Université libre de Bruxelles](http://quic.ulb.ac.be/members/past). I obtained my Bachelor's and Master's (May 2016) from [IISER Mohali](https://www.iisermohali.ac.in/students/people-sublinks/bs-ms-2011-batch), (India). I majored in physics and my master's thesis advisor was Prof Arvind. 
+
+<sub>⟨ [curriculum vitae](https://atulsingharora.github.io/CV/cv.pdf) ⟩ </sub>
 
 
 <!-- 
@@ -32,7 +36,7 @@ For my doctoral dissertation (Sep 2022), I was advised by Jérémie ROLAND at [U
 
 *Atul Singh Arora, Andrea Coladangelo, Matthew Coudron, Alexandru Gheorghiu, Uttam Singh, Hendrik Waldner*
 
-<sub> Oct 2022 [ [arXiv](https://arxiv.org/abs/2210.06454) | [GitHub](gla) ] —— Nov 2022 [submitted]  </sub>  
+<sub> Oct 2022 [ [arXiv](https://arxiv.org/abs/2210.06454) | [GitHub](https://atulsingharora.github.io/instaDepth) ] —— Nov 2022 [submitted]  </sub>  
 <sub>104 pages (+9 page Appendix), 10 figures
 </summary>
 
@@ -49,7 +53,7 @@ For my doctoral dissertation (Sep 2022), I was advised by Jérémie ROLAND at [U
 ### Self-Testing of a Single Quantum System: Theory and Experiment
 *Xiao-Min Hu, Yi Xie, Atul Singh Arora, Ming-Zhong Ai, Kishor Bharti, Jie Zhang, Wei Wu, Ping-Xing Chen, Jin-Ming Cui, Bi-Heng Liu, Yun-Feng Huang, Chuan-Feng Li, Guang-Can Guo, Jérémie Roland, Adán Cabello, Leong-Chuan Kwek*
 
-<sub> Mar 2022 [ [arXiv](https://arxiv.org/abs/2203.09003) | [GitHub](gla) ] —— [preparing to submit]  </sub>  
+<sub> Mar 2022 [ [arXiv](https://arxiv.org/abs/2203.09003) ] —— [preparing to submit]  </sub>  
 <sub>19+6 pages, 2+1 figures</sub>
 
 
@@ -57,20 +61,20 @@ For my doctoral dissertation (Sep 2022), I was advised by Jérémie ROLAND at [U
 ### Oracle separations of hybrid quantum-classical circuits
 *Atul Singh Arora, Alexandru Gheorghiu, Uttam Singh*
 
-<sub> Jan 2022 [ [arXiv](https://arxiv.org/abs/2201.01904) | [GitHub](gla) ] —— [preparing to submit]  </sub>  
+<sub> Jan 2022 [ [arXiv](https://arxiv.org/abs/2201.01904) | [GitHub](https://atulsingharora.github.io/HQC) ] —— [preparing to submit]  </sub>  
 <sub>47 pages, 5 figures</sub>
 
 
 ### Analytic quantum weak coin flipping protocols with arbitrarily small bias
 *Atul Singh Arora, Jérémie Roland, Chrysoula Vlachou*
 
-<sub> 13 July 2020 [ [arXiv](https://arxiv.org/abs/1911.13283) | [GitHub](gla) ] —— [SODA '21, QIP '21, QCrypt '21] </sub>  
+<sub> 13 July 2020 [ [arXiv](https://arxiv.org/abs/1911.13283) | [GitHub](https://atulsingharora.github.io/WCF2) ] —— [ [SODA '21](), QIP '21, QCrypt '21 ] </sub>  
 <sub>13+14 pages, 3 figures</sub>
 
 ### All fundamental non-contextuality inequalities are unique
 *Kishor Bharti, Atul Singh Arora, Leong Chuan Kwek, Jérémie Roland*
 
-<sub> Dec 2019 [ [arXiv](https://arxiv.org/abs/1811.05294) | [GitHub](gla) ] —— [Phys Rev Res 2020](https://doi.org/10.1103/PhysRevResearch.2.033010) 
+<sub> Dec 2019 [ [arXiv](https://arxiv.org/abs/1811.05294) ] —— [Phys Rev Res 2020](https://doi.org/10.1103/PhysRevResearch.2.033010) 
  </sub>  
 <sub>17 pages (5 main, 12 appendix), 4 figures</sub>
 
@@ -78,7 +82,7 @@ For my doctoral dissertation (Sep 2022), I was advised by Jérémie ROLAND at [U
 *Atul Singh Arora, Jérémie Roland, Stephan Weis*
 
 <sub> Nov 2018 [ [arXiv](https://arxiv.org/abs/1811.02984) | [GitHub](https://atulsingharora.github.io/WCF) ] —— 
-[STOC '19, QIP '19](https://doi.org/10.1145/3313276.3316306)  
+[ [STOC '19](https://doi.org/10.1145/3313276.3316306), QIP '19 ]
 98 pages, split into 3 parts, 10 figures
 </sub>
 
@@ -86,7 +90,7 @@ For my doctoral dissertation (Sep 2022), I was advised by Jérémie ROLAND at [U
 
 *Atul Singh Arora, Kishor Bharti, Arvind*
 
-<sub> Nov 2018 [ [arXiv](https://arxiv.org/abs/1811.02984) | [GitHub](https://atulsingharora.github.io/WCF) ] —— 
+<sub> Nov 2018 [ [arXiv](https://arxiv.org/abs/1811.02984) ] —— 
 [Phys Lett A](https://doi.org/10.1016/j.physleta.2018.11.049)  
 4 pages, 1 figure
 </sub>
