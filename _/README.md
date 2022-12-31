@@ -82,7 +82,7 @@ For my doctoral dissertation (Sep 2022), I was advised by Jérémie ROLAND at [U
 *Atul Singh Arora, Jérémie Roland, Stephan Weis*
 
 <sub> Nov 2018 [ [arXiv](https://arxiv.org/abs/1811.02984) | [GitHub](https://atulsingharora.github.io/WCF) ] —— 
-[ [STOC '19](https://doi.org/10.1145/3313276.3316306), QIP '19 ]
+[ [STOC '19](https://doi.org/10.1145/3313276.3316306), QIP '19 ]  
 98 pages, split into 3 parts, 10 figures
 </sub>
 
@@ -107,5 +107,5 @@ For my doctoral dissertation (Sep 2022), I was advised by Jérémie ROLAND at [U
 </sub>
 
 
-[arXiv | list of publications](https://arxiv.org/search/quant-ph?searchtype=author&query=Arora%2C+A+S)
+⟨ [list of publications on arXiv](https://arxiv.org/search/quant-ph?searchtype=author&query=Arora%2C+A+S) ⟩
 
