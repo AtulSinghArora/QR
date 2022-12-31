@@ -26,8 +26,7 @@ For my doctoral dissertation (Sep 2022), I was advised by Jérémie ROLAND at [U
 
 *Atul Singh Arora, Andrea Coladangelo, Matthew Coudron, Alexandru Gheorghiu, Uttam Singh, Hendrik Waldner*
 
-<sub> Oct 2022 — [arXiv]() | [GitHub](gla) </sub>  
-<sub> Nov 2022 — submitted  </sub>
+<sub> Oct 2022 [ [arXiv]() | [GitHub](gla) ] —— Nov 2022 [submitted]  </sub>
 
 </summary>
 
