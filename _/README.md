@@ -1,8 +1,14 @@
-# Atul Singh ARORA
+## Atul Singh ARORA
+
+ <img align="right" src ="https://user-images.githubusercontent.com/2003122/210131262-a28c9323-be40-4109-a8ad-0fc1f7a1870c.jpeg" width=190 /> 
+
+<!-- <img align="right" src ="https://user-images.githubusercontent.com/2003122/210131194-0be951ce-4312-44e6-92fc-c8ad91bfa46e.jpeg" width=190 /> -->
 
 I am a postdoctoral researcher at [Caltech](https://iqim.caltech.edu/people/postdocs/), working under the supervision of Thomas VIDICK (presently at [Weizmann](https://www.weizmann.ac.il/pages/)). 
 
 Given my training in physics, I am fascinated by the emergence of physical insight from the application of quantum mechanics to solving computational or cryptographic tasks. I was initially drawn to the field by the possibility of having information theoretic security in certain cryptographic settings (e.g. key distribution, coin flipping). Currently, I am excited by the prospect of understanding and testing various aspects of quantum mechanics under computational assumptions (e.g. collapse binding, compressed oracle simulation, quantum depth).
+
+atul.singh.arora@gmail.com, asarora@caltech.edu
 
 ## Education
 
@@ -56,6 +62,3 @@ For my doctoral dissertation (Sep 2022), I was advised by Jérémie ROLAND at [U
 [arXiv | list of publications](https://arxiv.org/search/quant-ph?searchtype=author&query=Arora%2C+A+S)
 
 
-
-## Contact
-Email is the best way to reach me: atul.singh.arora@gmail.com, asarora@caltech.edu
