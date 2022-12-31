@@ -23,9 +23,11 @@ For my doctoral dissertation (Sep 2022), I was advised by Jérémie ROLAND at [U
 <summary>
 
 ### Quantum Depth in the Random Oracle Model
+
 *Atul Singh Arora, Andrea Coladangelo, Matthew Coudron, Alexandru Gheorghiu, Uttam Singh, Hendrik Waldner*
 
-\[ [GitHub](gla) | [arXiv]() | submitted \]
+<sub> Oct 2022 — [arXiv]() | [GitHub](gla) </sub>  
+<sub> Nov 2022 — submitted  </sub>
 
 </summary>
 
