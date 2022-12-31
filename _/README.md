@@ -45,8 +45,6 @@ For my doctoral dissertation (Sep 2022), I was advised by Jérémie ROLAND at [U
 
 
 
-<details>
-<summary>
 
 ### Self-Testing of a Single Quantum System: Theory and Experiment
 *Xiao-Min Hu, Yi Xie, Atul Singh Arora, Ming-Zhong Ai, Kishor Bharti, Jie Zhang, Wei Wu, Ping-Xing Chen, Jin-Ming Cui, Bi-Heng Liu, Yun-Feng Huang, Chuan-Feng Li, Guang-Can Guo, Jérémie Roland, Adán Cabello, Leong-Chuan Kwek*
@@ -66,7 +64,7 @@ For my doctoral dissertation (Sep 2022), I was advised by Jérémie ROLAND at [U
 ### Analytic quantum weak coin flipping protocols with arbitrarily small bias
 *Atul Singh Arora, Jérémie Roland, Chrysoula Vlachou*
 
-<sub> 13 July 2020 [ [arXiv](https://arxiv.org/abs/1911.13283) | [GitHub](gla) ] —— [preparing to submit] </sub>  
+<sub> 13 July 2020 [ [arXiv](https://arxiv.org/abs/1911.13283) | [GitHub](gla) ] —— [SODA '21, QIP '21, QCrypt '21] </sub>  
 <sub>13+14 pages, 3 figures</sub>
 
 ### All fundamental non-contextuality inequalities are unique
@@ -80,7 +78,7 @@ For my doctoral dissertation (Sep 2022), I was advised by Jérémie ROLAND at [U
 *Atul Singh Arora, Jérémie Roland, Stephan Weis*
 
 <sub> Nov 2018 [ [arXiv](https://arxiv.org/abs/1811.02984) | [GitHub](https://atulsingharora.github.io/WCF) ] —— 
-[STOC 19](https://doi.org/10.1145/3313276.3316306)  
+[STOC '19, QIP '19](https://doi.org/10.1145/3313276.3316306)  
 98 pages, split into 3 parts, 10 figures
 </sub>
 
