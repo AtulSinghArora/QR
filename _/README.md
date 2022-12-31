@@ -25,14 +25,14 @@ For my doctoral dissertation (Sep 2022), I was advised by Jérémie ROLAND at [U
 
 ## Research
 
-<details open>
+<details>
 <summary>
 
 ### Quantum Depth in the Random Oracle Model
 
 *Atul Singh Arora, Andrea Coladangelo, Matthew Coudron, Alexandru Gheorghiu, Uttam Singh, Hendrik Waldner*
 
-<sub> Oct 2022 [ [arXiv]() | [GitHub](gla) ] —— Nov 2022 [submitted]  </sub>  
+<sub> Oct 2022 [ [arXiv](https://arxiv.org/abs/2210.06454) | [GitHub](gla) ] —— Nov 2022 [submitted]  </sub>  
 <sub>104 pages (+9 page Appendix), 10 figures
 </summary>
 
@@ -51,12 +51,58 @@ For my doctoral dissertation (Sep 2022), I was advised by Jérémie ROLAND at [U
 ### Self-Testing of a Single Quantum System: Theory and Experiment
 *Xiao-Min Hu, Yi Xie, Atul Singh Arora, Ming-Zhong Ai, Kishor Bharti, Jie Zhang, Wei Wu, Ping-Xing Chen, Jin-Ming Cui, Bi-Heng Liu, Yun-Feng Huang, Chuan-Feng Li, Guang-Can Guo, Jérémie Roland, Adán Cabello, Leong-Chuan Kwek*
 
-<sub> Mar 2022 [ [arXiv]() | [GitHub](gla) ] —— [submitted]  </sub>  
+<sub> Mar 2022 [ [arXiv](https://arxiv.org/abs/2203.09003) | [GitHub](gla) ] —— [preparing to submit]  </sub>  
 <sub>19+6 pages, 2+1 figures</sub>
-</summary>
 
-</details>
 
+
+### Oracle separations of hybrid quantum-classical circuits
+*Atul Singh Arora, Alexandru Gheorghiu, Uttam Singh*
+
+<sub> Jan 2022 [ [arXiv](https://arxiv.org/abs/2201.01904) | [GitHub](gla) ] —— [preparing to submit]  </sub>  
+<sub>47 pages, 5 figures</sub>
+
+
+### Analytic quantum weak coin flipping protocols with arbitrarily small bias
+*Atul Singh Arora, Jérémie Roland, Chrysoula Vlachou*
+
+<sub> 13 July 2020 [ [arXiv](https://arxiv.org/abs/1911.13283) | [GitHub](gla) ] —— [preparing to submit] </sub>  
+<sub>13+14 pages, 3 figures</sub>
+
+### All fundamental non-contextuality inequalities are unique
+*Kishor Bharti, Atul Singh Arora, Leong Chuan Kwek, Jérémie Roland*
+
+<sub> Dec 2019 [ [arXiv](https://arxiv.org/abs/1811.05294) | [GitHub](gla) ] —— [Phys Rev Res 2020](https://doi.org/10.1103/PhysRevResearch.2.033010) 
+ </sub>  
+<sub>17 pages (5 main, 12 appendix), 4 figures</sub>
+
+### Quantum Weak Coin Flipping
+*Atul Singh Arora, Jérémie Roland, Stephan Weis*
+
+<sub> Nov 2018 [ [arXiv](https://arxiv.org/abs/1811.02984) | [GitHub](https://atulsingharora.github.io/WCF) ] —— 
+[STOC 19](https://doi.org/10.1145/3313276.3316306)  
+98 pages, split into 3 parts, 10 figures
+</sub>
+
+### Revisiting the admissibility of non-contextual hidden variable models in quantum mechanics
+
+*Atul Singh Arora, Kishor Bharti, Arvind*
+
+<sub> Nov 2018 [ [arXiv](https://arxiv.org/abs/1811.02984) | [GitHub](https://atulsingharora.github.io/WCF) ] —— 
+[Phys Lett A](https://doi.org/10.1016/j.physleta.2018.11.049)  
+4 pages, 1 figure
+</sub>
+
+
+
+### Proposal for a macroscopic test of local realism with phase-space measurements
+
+*Atul S. Arora, Ali Asadian*
+
+<sub> Aug 2015 [ [arXiv](https://arxiv.org/abs/1508.04588)  ] —— 
+[Phys Rev A](https://doi.org/10.1103/PhysRevA.92.062107)  
+9 pages, 3 figures
+</sub>
 
 
 [arXiv | list of publications](https://arxiv.org/search/quant-ph?searchtype=author&query=Arora%2C+A+S)
