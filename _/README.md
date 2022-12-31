@@ -1,8 +1,10 @@
 ## Atul Singh ARORA
 
-This is my personal webpage. 
+I am a postdoctoral researcher, working under the supervision of Thomas VIDICK. I completed my doctoral studies in Sep, 2020. 
 
-Contact: atul.singh.arora@gmail.com, asarora@caltech.edu
+I am fascinated by the emergence of physical insight from the application of quantum mechanics to solving computational or cryptographic tasks. I was initially drawn to the field by the possibility of having information theoretic security in certain cryptographic settings. Currently, I am excited by the prospect of understanding and testing various aspects of quantum mechanics under computational assumptions.
+
+Email is the best way to reach me: atul.singh.arora@gmail.com, asarora@caltech.edu
 
 |Awarded |Degree | Institute |
 |-|-|-|
@@ -11,6 +13,8 @@ Contact: atul.singh.arora@gmail.com, asarora@caltech.edu
 
 
 
+
+[List of publications](https://arxiv.org/search/quant-ph?searchtype=author&query=Arora%2C+A+S)
 
 ## Research
 
