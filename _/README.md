@@ -74,7 +74,7 @@ For my doctoral dissertation (Sep 2022), I was advised by Jérémie ROLAND at [U
 ### All fundamental non-contextuality inequalities are unique
 *Kishor Bharti, Atul Singh Arora, Leong Chuan Kwek, Jérémie Roland*
 
-<sub> Dec 2019 [ [arXiv](https://arxiv.org/abs/1811.05294) ] —— [Phys Rev Res 2020](https://doi.org/10.1103/PhysRevResearch.2.033010) 
+<sub> Dec 2019 [ [arXiv](https://arxiv.org/abs/1811.05294) ] —— [ [Phys Rev Res 2020](https://doi.org/10.1103/PhysRevResearch.2.033010) ]
  </sub>  
 <sub>17 pages (5 main, 12 appendix), 4 figures</sub>
 
@@ -91,7 +91,7 @@ For my doctoral dissertation (Sep 2022), I was advised by Jérémie ROLAND at [U
 *Atul Singh Arora, Kishor Bharti, Arvind*
 
 <sub> Nov 2018 [ [arXiv](https://arxiv.org/abs/1811.02984) ] —— 
-[Phys Lett A](https://doi.org/10.1016/j.physleta.2018.11.049)  
+[ [Phys Lett A, 2018](https://doi.org/10.1016/j.physleta.2018.11.049) ]   
 4 pages, 1 figure
 </sub>
 
@@ -102,7 +102,7 @@ For my doctoral dissertation (Sep 2022), I was advised by Jérémie ROLAND at [U
 *Atul S. Arora, Ali Asadian*
 
 <sub> Aug 2015 [ [arXiv](https://arxiv.org/abs/1508.04588)  ] —— 
-[Phys Rev A](https://doi.org/10.1103/PhysRevA.92.062107)  
+[ [Phys Rev A, 2015](https://doi.org/10.1103/PhysRevA.92.062107) ]  
 9 pages, 3 figures
 </sub>
 
