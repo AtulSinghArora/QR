@@ -29,7 +29,7 @@ For my doctoral dissertation (Sep 2022), I was advised by Jérémie ROLAND at [U
 
 ## Research
 
-<details>
+<details open>
 <summary>
 
 ### Quantum Depth in the Random Oracle Model
