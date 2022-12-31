@@ -4,7 +4,6 @@ This is my personal webpage.
 
 Contact: atul.singh.arora@gmail.com, asarora@caltech.edu
 
-## Education
 |Awarded |Degree | Institute |
 |-|-|-|
 | Sep 2020 | PhD | *Université libre de Bruxelles*, Belgium. Advisor: Prof Jérémie ROLAND |
