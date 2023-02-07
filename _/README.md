@@ -36,7 +36,7 @@ For my doctoral dissertation (Sep 2022), I was advised by Jérémie ROLAND at [U
 
 *Atul Singh Arora, Andrea Coladangelo, Matthew Coudron, Alexandru Gheorghiu, Uttam Singh, Hendrik Waldner*
 
-<sub> Oct 2022 [ [arXiv](https://arxiv.org/abs/2210.06454) | [GitHub](https://atulsingharora.github.io/instaDepth) ] —— Nov 2022 [submitted]  </sub>  
+<sub> Oct 2022 [ [arXiv](https://arxiv.org/abs/2210.06454) | [GitHub](https://atulsingharora.github.io/instaDepth) ] —— Nov 2022 [Accepted STOC '23]  </sub>  
 <sub>104 pages (+9 page Appendix), 10 figures
 </summary>
 
