@@ -127,19 +127,32 @@ In this paper, we show that, despite the similarities between CQ_d and QC_d, the
 </sub>
 
 </summary>
+
 > We investigate weak coin flipping, a fundamental cryptographic primitive where two distrustful parties need to remotely establish a shared random bit. A cheating player can try to bias the output bit towards a preferred value. For weak coin flipping the players have known opposite preferred values. A weak coin-flipping protocol has a bias $\epsilon$ if neither player can force the outcome towards his/her preferred value with probability more than $\frac{1}{2}+\epsilon$. While it is known that classically $\epsilon=\frac{1}{2}$, Mochon showed in 2007 that quantumly weak coin flipping can be achieved with arbitrarily small bias (near perfect) but the best known explicit protocol has bias $\frac{1}{6}$ (also due to Mochon, 2005). We propose a framework to construct new explicit protocols achieving biases below $\frac{1}{6}$. In particular, we construct explicit unitaries for protocols with bias up to $\frac{1}{10}$. To go below, we introduce what we call the Elliptic Monotone Align (EMA) algorithm which, together with the framework, allows us to numerically construct protocols with arbitrarily small biases.
 </details>
+
+
+<details>
+<summary>
 
 ### Revisiting the admissibility of non-contextual hidden variable models in quantum mechanics
 
 *Atul Singh Arora, Kishor Bharti, Arvind*
 
-<sub> Nov 2018 [ [arXiv](https://arxiv.org/abs/1811.02984) ] —— 
+<sub> Nov 2018 [ [arXiv](https://arxiv.org/abs/1607.03498) ] —— 
 [ [Phys Lett A, 2018](https://doi.org/10.1016/j.physleta.2018.11.049) ]   
 4 pages, 1 figure
 </sub>
 
+</summary>
 
+> We construct a non-contextual hidden variable model consistent with all the kinematic predictions of quantum mechanics (QM). The famous Bell-KS theorem shows that non-contextual models which satisfy a further reasonable restriction are inconsistent with QM. In our construction, we define a weaker variant of this restriction which captures its essence while still allowing a non-contextual description of QM. This is in contrast to the contextual hidden variable toy models, such as the one by Bell, and brings out an interesting alternate way of looking at QM. The results also relate to the Bohmian model, where it is harder to pin down such features.
+
+</details>
+
+
+<details>
+<summary>
 
 ### Proposal for a macroscopic test of local realism with phase-space measurements
 
@@ -150,6 +163,11 @@ In this paper, we show that, despite the similarities between CQ_d and QC_d, the
 9 pages, 3 figures
 </sub>
 
+</summary>
+
+> We propose a new test of local realism based on correlation measurements of continuum valued functions of positions and momenta, known as modular variables. The Wigner representation of these observables are bounded in phase space, and therefore, the associated inequality holds for any state described by a non-negative Wigner function. This agrees with Bell's remark that positive Wigner functions, serving as a valid probability distribution over local (hidden) phase space coordinates, do not reveal non-locality. We construct a class of entangled states resulting in a violation of the inequality, and thus truly demonstrate non-locality in phase space. The states can be realized through grating techniques in space-like separated interferometric setups. The non-locality is verified from the spatial correlation data, collected from the screens.
+
+</details>
 
 ⟨ [list of publications on arXiv](https://arxiv.org/search/quant-ph?searchtype=author&query=Arora%2C+A+S) ⟩
 
