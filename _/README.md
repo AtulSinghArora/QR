@@ -52,7 +52,7 @@ For my doctoral dissertation (Sep 2020), I was advised by Jérémie ROLAND at [U
 <summary>
 
 ### Solutions to Quantum Weak Coin Flipping
-#### (Consolidation of all our previous results about weak coin flipping into a single journal version)
+ (Consolidation of all our previous results about weak coin flipping into a single journal version)  
 *Atul Singh Arora, Jérémie Roland, Chrysoula Vlachou, Stephan Weis*
 
 <sub> Aug 2022 [ [ePrint](https://eprint.iacr.org/2022/1101) ] —— [preparing to submit]  </sub>  
