@@ -48,6 +48,22 @@ For my doctoral dissertation (Sep 2020), I was advised by Jérémie ROLAND at [U
 </details>
 
 
+<details>
+<summary>
+
+### Solutions to Quantum Weak Coin Flipping
+#### (Consolidation of all our previous results about weak coin flipping into a single journal version)
+*Atul Singh Arora, Jérémie Roland, Chrysoula Vlachou, Stephan Weis*
+
+<sub> Aug 2022 [ [ePrint](https://eprint.iacr.org/2022/1101) ] —— [preparing to submit]  </sub>  
+<sub> 110 + 28 pages, 24 figures</sub>
+
+</summary>
+
+> Weak coin flipping is an important cryptographic primitive, as it is the strongest known secure two-party computation primitive, that classically becomes secure only when certain assumptions are made (e.g. computational hardness), while quantumly there exist protocols that achieve arbitrarily close to perfect security. This breakthrough result was established by C. Mochon in 2007 [arXiv:0711.4114], however, his proof of existence was partially non-constructive, thus, setting back the proposal of explicit protocols. In this work, we report three different solutions to the quantum weak coin flipping problem. In particular, we propose different methods that result---either analytically or numerically---in the operators needed to construct weak coin flipping protocols with different levels of security, including nearly perfect security. In order to develop these methods, we study the quantum weak coin flipping problem from both an algebraic and a geometric perspective. We also analytically construct illustrative examples of weak coin flipping protocols achieving different levels of security.
+
+</details>
+
 
 <details>
 <summary>
@@ -82,6 +98,24 @@ In this paper, we show that, despite the similarities between CQ_d and QC_d, the
 
 </details>
 
+
+<details>
+<summary>
+
+### Improving the security of device independent weak coin flipping protocols
+*Atul Singh Arora, Jamie Sikora, Tom Van Himbeeck*
+
+ <sub> Oct 2021 [ [overleaf](https://www.overleaf.com/read/jhwnvgbntqkd) ] —— [finalising preparation]  </sub>
+
+</summary> 
+Weak coin flipping is the cryptographic task where Alice and Bob remotely flip a coin but want opposite outcomes. 
+This work studies this task in the device-independent regime where Alice and Bob neither trust each other, nor their quantum devices. 
+The best protocol was devised ten years ago by Silman, Chailloux, Aharon, Kerenidis, Pironio, and Massar with bias $\epsilon \le 0.33664$, where the bias is a commonly adopted security measure for coin flipping protocols. 
+This work presents some techniques to lower the bias of device-independent weak coin flipping protocols, namely self-testing and abort-phobic compositions. 
+By applying these techniques to the SCAKPM '11 protocol above, we are able to lower the bias to $\epsilon \approx 0.31486$ and assuming a continuity conjecture, we can suppress it further to $\epsilon \approx 0.29104$. 
+In our analysis, we show how to harness the rigidity bounds for the GHZ game in our setting and examine the continuity of an optimisation problem to bound the bias, which may be of independent interest.  
+
+</details>
 
 
 <details>
