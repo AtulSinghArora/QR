@@ -14,7 +14,7 @@ I am fascinated by the emergence of physical insight from the application of qua
 
 ## Education
 
-For my doctoral dissertation (Sep 2022), I was advised by Jérémie ROLAND at [Université libre de Bruxelles](http://quic.ulb.ac.be/members/past). I obtained my Bachelor's and Master's (May 2016) from [IISER Mohali](https://www.iisermohali.ac.in/students/people-sublinks/bs-ms-2011-batch), (India). I majored in physics and my master's thesis advisor was Prof Arvind. 
+For my doctoral dissertation (Sep 2020), I was advised by Jérémie ROLAND at [Université libre de Bruxelles](http://quic.ulb.ac.be/members/past). I obtained my Bachelor's and Master's (May 2016) from [IISER Mohali](https://www.iisermohali.ac.in/students/people-sublinks/bs-ms-2011-batch), (India). I majored in physics and my master's thesis advisor was Prof Arvind. 
 
 <sub>[ [curriculum vitae](https://atulsingharora.github.io/CV/cv.pdf) ] </sub>
 
@@ -49,14 +49,25 @@ For my doctoral dissertation (Sep 2022), I was advised by Jérémie ROLAND at [U
 
 
 
+<details>
+<summary>
 
 ### Self-Testing of a Single Quantum System: Theory and Experiment
 *Xiao-Min Hu, Yi Xie, Atul Singh Arora, Ming-Zhong Ai, Kishor Bharti, Jie Zhang, Wei Wu, Ping-Xing Chen, Jin-Ming Cui, Bi-Heng Liu, Yun-Feng Huang, Chuan-Feng Li, Guang-Can Guo, Jérémie Roland, Adán Cabello, Leong-Chuan Kwek*
 
 <sub> Mar 2022 [ [arXiv](https://arxiv.org/abs/2203.09003) ] —— [preparing to submit]  </sub>  
 <sub>19+6 pages, 2+1 figures</sub>
+</summary>
+
+> Self-testing allows for characterising quantum systems under minimal assumptions.
+However, existing schemes rely on quantum non-locality and cannot be applied to systems that are not entangled. Here, we introduce a robust method that achieves self-testing of individual systems by taking advantage of contextuality. The scheme is based on the simplest contextuality witness for the simplest contextual quantum system---the Klyachko-Can-Binicioğlu-Shumovsky inequality for the qutrit. We establish a lower bound on the fidelity of the state and the measurements as a function of the value of the witness under a pragmatic assumption on the measurements. We apply the method in an experiment on a single trapped $^{40}{\rm Ca}^+$ and using randomly chosen measurements and perfect detection efficiency. Using the observed statistics, we obtain the first experimental demonstration of self-testing of a single quantum system with negligible deviations from the assumptions.
+</details>
 
 
+
+
+<details>
+<summary>
 
 ### Oracle separations of hybrid quantum-classical circuits
 *Atul Singh Arora, Alexandru Gheorghiu, Uttam Singh*
@@ -64,6 +75,13 @@ For my doctoral dissertation (Sep 2022), I was advised by Jérémie ROLAND at [U
 <sub> Jan 2022 [ [arXiv](https://arxiv.org/abs/2201.01904) | [GitHub](https://atulsingharora.github.io/HQC) ] —— [preparing to submit]  </sub>  
 <sub>47 pages, 5 figures</sub>
 
+</summary>
+
+An important theoretical problem in the study of quantum computation, that is also practically relevant in the context of near-term quantum devices, is to understand the computational power of hybrid models, that combine polynomial-time classical computation with short-depth quantum computation. Here, we consider two such models: CQ_d which captures the scenario of a polynomial-time classical algorithm that queries a d-depth quantum computer many times; and QC_d which is more analogous to measurement-based quantum computation and captures the scenario of a d-depth quantum computer with the ability to change the sequence of gates being applied depending on measurement outcomes processed by a classical computation. Chia, Chung and Lai (STOC 2020) and Coudron and Menda (STOC 2020) showed that these models (with d=polylog(n)) are strictly weaker than BQP (the class of problems solvable by polynomial-time quantum computation), relative to an oracle, disproving a conjecture of Jozsa in the relativised world.
+
+In this paper, we show that, despite the similarities between CQ_d and QC_d, the two models are incomparable, i.e. CQ_d ⊈ QC_d and QC_d ⊈ CQ_d relative to an oracle. In other words, we show that there exist problems that one model can solve but not the other and vice versa. We do this by considering new oracle problems that capture the distinctions between the two models and by introducing the notion of an intrinsically stochastic oracle, an oracle whose responses are inherently randomised, which is used for our second result. While we leave showing the second separation relative to a standard oracle as an open problem, we believe the notion of stochastic oracles could be of independent interest for studying complexity classes which have resisted separation in the standard oracle model. Our constructions also yield simpler oracle separations between the hybrid models and BQP, compared to earlier works.
+
+</details>
 
 ### Analytic quantum weak coin flipping protocols with arbitrarily small bias
 *Atul Singh Arora, Jérémie Roland, Chrysoula Vlachou*
