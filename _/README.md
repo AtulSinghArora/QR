@@ -105,7 +105,7 @@ In this paper, we show that, despite the similarities between CQ_d and QC_d, the
 ### Improving the security of device independent weak coin flipping protocols
 *Atul Singh Arora, Jamie Sikora, Tom Van Himbeeck*
 
- <sub> Oct 2021 [ [overleaf](https://www.overleaf.com/read/jhwnvgbntqkd) ] —— [finalising preparation]  </sub>
+ <sub> Oct 2021 [ [overleaf](https://www.overleaf.com/read/jhwnvgbntqkd) ] —— [finalising preparation]  </sub>  
 <sub> 21 + 1 pages, 3 figures </sub>
 
 </summary> 
