@@ -88,7 +88,7 @@ However, existing schemes rely on quantum non-locality and cannot be applied to 
 ### Oracle separations of hybrid quantum-classical circuits
 *Atul Singh Arora, Alexandru Gheorghiu, Uttam Singh*
 
-<sub> Jan 2022 [ [arXiv](https://arxiv.org/abs/2201.01904) | [GitHub](https://atulsingharora.github.io/HQC) ] —— [preparing to submit]  </sub>  
+<sub> Jan 2022 [ [arXiv](https://arxiv.org/abs/2201.01904) | [GitHub](https://atulsingharora.github.io/HQC) ] —— [submitted]  </sub>  
 <sub>47 pages, 5 figures</sub>
 
 </summary>
@@ -106,9 +106,11 @@ In this paper, we show that, despite the similarities between CQ_d and QC_d, the
 *Atul Singh Arora, Jamie Sikora, Tom Van Himbeeck*
 
  <sub> Oct 2021 [ [overleaf](https://www.overleaf.com/read/jhwnvgbntqkd) ] —— [finalising preparation]  </sub>
+<sub> 21 + 1 pages, 3 figures </sub>
 
 </summary> 
-Weak coin flipping is the cryptographic task where Alice and Bob remotely flip a coin but want opposite outcomes. 
+
+> Weak coin flipping is the cryptographic task where Alice and Bob remotely flip a coin but want opposite outcomes. 
 This work studies this task in the device-independent regime where Alice and Bob neither trust each other, nor their quantum devices. 
 The best protocol was devised ten years ago by Silman, Chailloux, Aharon, Kerenidis, Pironio, and Massar with bias $\epsilon \le 0.33664$, where the bias is a commonly adopted security measure for coin flipping protocols. 
 This work presents some techniques to lower the bias of device-independent weak coin flipping protocols, namely self-testing and abort-phobic compositions. 
