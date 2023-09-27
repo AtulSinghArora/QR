@@ -36,7 +36,7 @@ For my doctoral dissertation (Sep 2020), I was advised by Jérémie ROLAND at [U
 
 *Atul Singh Arora, Andrea Coladangelo, Matthew Coudron, Alexandru Gheorghiu, Uttam Singh, Hendrik Waldner*
 
-<sub> Oct 2022 [ [arXiv](https://arxiv.org/abs/2210.06454) | [GitHub](https://atulsingharora.github.io/instaDepth) ] —— [ [STOC '23](http://acm-stoc.org/stoc2023/accepted.html) ]  </sub>  
+<sub> Oct 2022 [ [arXiv](https://arxiv.org/abs/2210.06454) | [GitHub](https://atulsingharora.github.io/instaDepth) ] —— [ [STOC '23](https://doi.org/10.1145/3564246.3585153) ]  </sub>  
 <sub>104 pages (+9 page Appendix), 10 figures
 </summary>
 
@@ -55,7 +55,7 @@ For my doctoral dissertation (Sep 2020), I was advised by Jérémie ROLAND at [U
  (Consolidation of all our previous results about weak coin flipping into a single journal version)  
 *Atul Singh Arora, Jérémie Roland, Chrysoula Vlachou, Stephan Weis*
 
-<sub> Aug 2022 [ [ePrint](https://eprint.iacr.org/2022/1101) ] —— [preparing to submit]  </sub>  
+<sub> Aug 2022 [ [ePrint](https://eprint.iacr.org/2022/1101) ] —— [submitted]  </sub>  
 <sub> 110 + 28 pages, 24 figures</sub>
 
 </summary>
@@ -71,7 +71,7 @@ For my doctoral dissertation (Sep 2020), I was advised by Jérémie ROLAND at [U
 ### Self-Testing of a Single Quantum System: Theory and Experiment
 *Xiao-Min Hu, Yi Xie, Atul Singh Arora, Ming-Zhong Ai, Kishor Bharti, Jie Zhang, Wei Wu, Ping-Xing Chen, Jin-Ming Cui, Bi-Heng Liu, Yun-Feng Huang, Chuan-Feng Li, Guang-Can Guo, Jérémie Roland, Adán Cabello, Leong-Chuan Kwek*
 
-<sub> Mar 2022 [ [arXiv](https://arxiv.org/abs/2203.09003) ] —— [preparing to submit]  </sub>  
+<sub> Mar 2022 [ [arXiv](https://arxiv.org/abs/2203.09003) ] —— [accepted, npj Quantum Information]  </sub>  
 <sub>19+6 pages, 2+1 figures</sub>
 </summary>
 
@@ -88,7 +88,7 @@ However, existing schemes rely on quantum non-locality and cannot be applied to 
 ### Oracle separations of hybrid quantum-classical circuits
 *Atul Singh Arora, Alexandru Gheorghiu, Uttam Singh*
 
-<sub> Jan 2022 [ [arXiv](https://arxiv.org/abs/2201.01904) | [GitHub](https://atulsingharora.github.io/HQC) ] —— [submitted]  </sub>  
+<sub> Jan 2022 [ [arXiv](https://arxiv.org/abs/2201.01904) | [GitHub](https://atulsingharora.github.io/HQC) ] —— [submitting]  </sub>  
 <sub>47 pages, 5 figures</sub>
 
 </summary>
