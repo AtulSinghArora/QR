@@ -71,7 +71,7 @@ For my doctoral dissertation (Sep 2020), I was advised by Jérémie ROLAND at [U
 ### Self-Testing of a Single Quantum System: Theory and Experiment
 *Xiao-Min Hu, Yi Xie, Atul Singh Arora, Ming-Zhong Ai, Kishor Bharti, Jie Zhang, Wei Wu, Ping-Xing Chen, Jin-Ming Cui, Bi-Heng Liu, Yun-Feng Huang, Chuan-Feng Li, Guang-Can Guo, Jérémie Roland, Adán Cabello, Leong-Chuan Kwek*
 
-<sub> Mar 2022 [ [arXiv](https://arxiv.org/abs/2203.09003) ] —— [accepted, npj Quantum Information]  </sub>  
+<sub> Mar 2022 [ [arXiv](https://arxiv.org/abs/2203.09003) ] —— [ [npj Quantum Information](https://doi.org/10.1038/s41534-023-00769-7) ]  </sub>  
 <sub>19+6 pages, 2+1 figures</sub>
 </summary>
 
