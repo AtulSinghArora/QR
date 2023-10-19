@@ -29,6 +29,23 @@ For my doctoral dissertation (Sep 2020), I was advised by Jérémie ROLAND at [U
 
 ## Research
 
+<details>
+<summary>
+
+### Self-Testing of a Single Quantum System: Theory and Experiment
+*Xiao-Min Hu, Yi Xie, Atul Singh Arora, Ming-Zhong Ai, Kishor Bharti, Jie Zhang, Wei Wu, Ping-Xing Chen, Jin-Ming Cui, Bi-Heng Liu, Yun-Feng Huang, Chuan-Feng Li, Guang-Can Guo, Jérémie Roland, Adán Cabello, Leong-Chuan Kwek*
+
+<sub> Oct 2023 [ [npj Quantum Information](https://doi.org/10.1038/s41534-023-00769-7) ] —— [ [arXiv](https://arxiv.org/abs/2203.09003) ]    </sub>  
+<sub>19+6 pages, 2+1 figures</sub>
+</summary>
+
+> Self-testing allows for characterising quantum systems under minimal assumptions.
+However, existing schemes rely on quantum non-locality and cannot be applied to systems that are not entangled. Here, we introduce a robust method that achieves self-testing of individual systems by taking advantage of contextuality. The scheme is based on the simplest contextuality witness for the simplest contextual quantum system---the Klyachko-Can-Binicioğlu-Shumovsky inequality for the qutrit. We establish a lower bound on the fidelity of the state and the measurements as a function of the value of the witness under a pragmatic assumption on the measurements. We apply the method in an experiment on a single trapped $^{40}{\rm Ca}^+$ and using randomly chosen measurements and perfect detection efficiency. Using the observed statistics, we obtain the first experimental demonstration of self-testing of a single quantum system with negligible deviations from the assumptions.
+</details>
+
+
+
+
 <details open>
 <summary>
 
@@ -36,7 +53,7 @@ For my doctoral dissertation (Sep 2020), I was advised by Jérémie ROLAND at [U
 
 *Atul Singh Arora, Andrea Coladangelo, Matthew Coudron, Alexandru Gheorghiu, Uttam Singh, Hendrik Waldner*
 
-<sub> Oct 2022 [ [arXiv](https://arxiv.org/abs/2210.06454) | [GitHub](https://atulsingharora.github.io/instaDepth) ] —— [ [STOC '23](https://doi.org/10.1145/3564246.3585153) ]  </sub>  
+<sub> June 2023 [ [STOC '23](https://doi.org/10.1145/3564246.3585153) ]  ——  [ [arXiv](https://arxiv.org/abs/2210.06454) | [GitHub](https://atulsingharora.github.io/instaDepth) ]   </sub>  
 <sub>104 pages (+9 page Appendix), 10 figures
 </summary>
 
@@ -64,20 +81,6 @@ For my doctoral dissertation (Sep 2020), I was advised by Jérémie ROLAND at [U
 
 </details>
 
-
-<details>
-<summary>
-
-### Self-Testing of a Single Quantum System: Theory and Experiment
-*Xiao-Min Hu, Yi Xie, Atul Singh Arora, Ming-Zhong Ai, Kishor Bharti, Jie Zhang, Wei Wu, Ping-Xing Chen, Jin-Ming Cui, Bi-Heng Liu, Yun-Feng Huang, Chuan-Feng Li, Guang-Can Guo, Jérémie Roland, Adán Cabello, Leong-Chuan Kwek*
-
-<sub> Mar 2022 [ [arXiv](https://arxiv.org/abs/2203.09003) ] —— [ [npj Quantum Information](https://doi.org/10.1038/s41534-023-00769-7) ]  </sub>  
-<sub>19+6 pages, 2+1 figures</sub>
-</summary>
-
-> Self-testing allows for characterising quantum systems under minimal assumptions.
-However, existing schemes rely on quantum non-locality and cannot be applied to systems that are not entangled. Here, we introduce a robust method that achieves self-testing of individual systems by taking advantage of contextuality. The scheme is based on the simplest contextuality witness for the simplest contextual quantum system---the Klyachko-Can-Binicioğlu-Shumovsky inequality for the qutrit. We establish a lower bound on the fidelity of the state and the measurements as a function of the value of the witness under a pragmatic assumption on the measurements. We apply the method in an experiment on a single trapped $^{40}{\rm Ca}^+$ and using randomly chosen measurements and perfect detection efficiency. Using the observed statistics, we obtain the first experimental demonstration of self-testing of a single quantum system with negligible deviations from the assumptions.
-</details>
 
 
 
