@@ -29,13 +29,28 @@ For my doctoral dissertation (Sep 2020), I was advised by Jérémie ROLAND at [U
 
 ## Research
 
+
+<details>
+<summary>
+
+### Impossibility of adversarial self-testing and secure sampling
+*Akshay Bansal, Atul Singh Arora, Thomas Van Himbeeck and Jamie Sikora*
+
+<sub> Oct 2023 [ [arXiv upcoming]() ]    </sub>  
+<sub>19+6 pages, 2+1 figures</sub>
+</summary>
+
+> Self-testing is the task where spatially separated Alice and Bob cooperate to deduce the inner workings of untrusted quantum devices by interacting with them in a classical manner. We examine the task above where Alice and Bob do not trust each other which we call *adversarial self-testing*. We show that adversarial self-testing implies *secure sampling*---a task that we introduce where mistrustful Alice and Bob wish to sample from a joint probability distribution with the guarantee that an honest party's marginal is not biased. By extending impossibility results in two-party quantum cryptography, we give a simple proof that both of these tasks are impossible in all but trivial settings.
+</details>
+
+
 <details>
 <summary>
 
 ### Self-Testing of a Single Quantum System: Theory and Experiment
 *Xiao-Min Hu, Yi Xie, Atul Singh Arora, Ming-Zhong Ai, Kishor Bharti, Jie Zhang, Wei Wu, Ping-Xing Chen, Jin-Ming Cui, Bi-Heng Liu, Yun-Feng Huang, Chuan-Feng Li, Guang-Can Guo, Jérémie Roland, Adán Cabello, Leong-Chuan Kwek*
 
-<sub> Oct 2023 [ [npj Quantum Information](https://doi.org/10.1038/s41534-023-00769-7) ] —— [ [arXiv](https://arxiv.org/abs/2203.09003) ]    </sub>  
+<sub> Oct 2023 [ [npj QI](https://doi.org/10.1038/s41534-023-00769-7) ] —— [ [arXiv](https://arxiv.org/abs/2203.09003) ]    </sub>  
 <sub>19+6 pages, 2+1 figures</sub>
 </summary>
 
