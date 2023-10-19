@@ -14,7 +14,7 @@ I am fascinated by the emergence of physical insight from the application of qua
 
 ## Education
 
-I was a postdoctoral researcher at [Caltech](https://iqim.caltech.edu/people/postdocs/), working under the supervision of Thomas VIDICK (presently at [Weizmann](https://www.weizmann.ac.il/pages/)). For my doctoral dissertation (Sep 2020), I was advised by Jérémie ROLAND at [Université libre de Bruxelles](http://quic.ulb.ac.be/members/past). I obtained my Bachelor's and Master's (May 2016) from [IISER Mohali](https://www.iisermohali.ac.in/students/people-sublinks/bs-ms-2011-batch), (India). I majored in physics and my master's thesis advisor was Prof Arvind. 
+I was a postdoctoral researcher at [Caltech](https://iqim.caltech.edu/people/postdocs/), under the supervision of Prof Thomas VIDICK (presently at [Weizmann](https://www.weizmann.ac.il/pages/)). For my doctoral dissertation (Sep 2020), I was advised by Prof Jérémie ROLAND at [Université libre de Bruxelles](http://quic.ulb.ac.be/members/past). I obtained my Bachelor's and Master's (May 2016) from [IISER Mohali](https://www.iisermohali.ac.in/students/people-sublinks/bs-ms-2011-batch), (India). I majored in physics and my master's thesis advisor was Prof Arvind. 
 
 <sub>[ [curriculum vitae](https://atulsingharora.github.io/CV/cv.pdf) ] </sub>
 
