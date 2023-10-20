@@ -68,7 +68,7 @@ However, existing schemes rely on quantum non-locality and cannot be applied to 
 
 *Atul Singh Arora, Andrea Coladangelo, Matthew Coudron, Alexandru Gheorghiu, Uttam Singh, Hendrik Waldner*
 
-<sub> June 2023 [ [STOC '23](https://doi.org/10.1145/3564246.3585153) ]  ——  [ [arXiv](https://arxiv.org/abs/2210.06454) | [GitHub](https://atulsingharora.github.io/instaDepth) ]   </sub>  
+<sub> June 2023 [ [STOC '23](https://doi.org/10.1145/3564246.3585153), [TQC '23](https://tqc-conference.org/talks/) ]  ——  [ [arXiv](https://arxiv.org/abs/2210.06454) | [GitHub](https://atulsingharora.github.io/instaDepth) ]   </sub>  
 <sub>104 pages (+9 page Appendix), 10 figures
 </summary>
 
