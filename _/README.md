@@ -234,7 +234,7 @@ In this paper, we show that, despite the similarities between CQ_d and QC_d, the
 
 *Atul Singh Arora, Ali Asadian*
 
-<sub> Dec 2015 [ [Phys Rev A, 2015](https://doi.org/10.1103/PhysRevA.92.062107) ] ——   [ [arXiv](https://arxiv.org/abs/1508.04588)  ] 
+<sub> Dec 2015 [ [Phys Rev A, 2015](https://link.aps.org/doi/10.1103/PhysRevA.92.062107) ] ——   [ [arXiv](https://arxiv.org/abs/1508.04588)  ] 
 
 9 pages, 3 figures
 </sub>
