@@ -1,12 +1,24 @@
 ## Atul Singh ARORA
 
- <img align="right" src ="https://user-images.githubusercontent.com/2003122/210131262-a28c9323-be40-4109-a8ad-0fc1f7a1870c.jpeg" width=190 /> 
+ <!-- <img align="right" src ="https://user-images.githubusercontent.com/2003122/210131262-a28c9323-be40-4109-a8ad-0fc1f7a1870c.jpeg" width=190 />  -->
+ <!-- <img align="right" src ="https://github.com/AtulSinghArora/QR/assets/2003122/be641605-5d9c-421f-b3ce-37a10fa93077" width=190 /> -->
+
+
+
+ <img align="right" src ="https://github.com/AtulSinghArora/QR/assets/2003122/4dee787a-c3ef-4c66-8ee2-a103c53e1f7a" width=140 />
+
+<!-- ![frml_ARORA_Feb_2024_cropped_](https://github.com/AtulSinghArora/QR/assets/2003122/4dee787a-c3ef-4c66-8ee2-a103c53e1f7a) -->
+
+ 
+ <!-- ![image](https://github.com/AtulSinghArora/QR/assets/2003122/db42f393-06e9-4f59-b8c6-8611ac8c40f3) Formal -->
+
+<!-- ![inf_ARORA_Feb_2024](https://github.com/AtulSinghArora/QR/assets/2003122/be641605-5d9c-421f-b3ce-37a10fa93077) Informal -->
 
 <!-- <img align="right" src ="https://user-images.githubusercontent.com/2003122/210131194-0be951ce-4312-44e6-92fc-c8ad91bfa46e.jpeg" width=190 /> -->
 
-I am a postdoctoral researcher at [Caltech](https://iqim.caltech.edu/people/postdocs/), working under the supervision of Thomas VIDICK (presently at [Weizmann](https://www.weizmann.ac.il/pages/)). 
+I am a postdoctoral researcher at the [University of Maryland](https://quics.umd.edu/people/atul-singh-arora).
 
-I am fascinated by the emergence of physical insight from the application of quantum mechanics to solving computational or cryptographic tasks. I was initially drawn to the field by the possibility of having information theoretic security in certain cryptographic settings (e.g. key distribution, coin flipping). Currently, I am excited by the prospect of understanding and testing various aspects of quantum mechanics under computational assumptions (e.g. collapse binding, compressed oracle simulation, quantum depth). 
+I am fascinated by the emergence of physical insight from the application of quantum mechanics to solving computational or cryptographic tasks. I was initially drawn to the field by the possibility of having information theoretic security in certain cryptographic settings (e.g. key distribution, coin flipping). Currently, I am excited by the prospect of understanding and testing various aspects of quantum mechanics under computational assumptions (e.g. compressed oracle simulation, quantum depth). 
 
 <sub> [ atul.singh.arora@gmail.com | asarora@caltech.edu ] </sub>
 
@@ -14,7 +26,7 @@ I am fascinated by the emergence of physical insight from the application of qua
 
 ## Education
 
-For my doctoral dissertation (Sep 2020), I was advised by Jérémie ROLAND at [Université libre de Bruxelles](http://quic.ulb.ac.be/members/past). I obtained my Bachelor's and Master's (May 2016) from [IISER Mohali](https://www.iisermohali.ac.in/students/people-sublinks/bs-ms-2011-batch), (India). I majored in physics and my master's thesis advisor was Prof Arvind. 
+I was a postdoctoral researcher at [Caltech](https://iqim.caltech.edu/people/postdocs/), under the supervision of Prof Thomas VIDICK (presently at [Weizmann](https://www.weizmann.ac.il/pages/)). For my doctoral dissertation (Sep 2020), I was advised by Prof Jérémie ROLAND at [Université libre de Bruxelles](http://quic.ulb.ac.be/members/past). I obtained my Bachelor's and Master's (May 2016) from [IISER Mohali](https://www.iisermohali.ac.in/students/people-sublinks/bs-ms-2011-batch), (India). I majored in physics and my master's thesis advisor was Prof Arvind. 
 
 <sub>[ [curriculum vitae](https://atulsingharora.github.io/CV/cv.pdf) ] </sub>
 
@@ -29,6 +41,69 @@ For my doctoral dissertation (Sep 2020), I was advised by Jérémie ROLAND at [U
 
 ## Research
 
+<details>
+<summary>
+
+### Improving device independent weak coin flipping protocols
+*Atul Singh Arora, Jamie Sikora, Tom Van Himbeeck*
+
+ <sub> Apr 2024 [ [arXiv](https://arxiv.org/abs/2404.17079) ]  </sub>  
+<sub> 25 pages, 7 figures </sub>
+
+</summary> 
+
+>   Weak coin flipping is the cryptographic task where Alice and Bob remotely
+flip a coin but want opposite outcomes. This work studies this task in the
+device-independent regime where Alice and Bob neither trust each other, nor
+their quantum devices. The best protocol was devised over a decade ago by
+Silman, Chailloux, Aharon, Kerenidis, Pironio, and Massar with bias
+$\varepsilon \approx 0.33664$, where the bias is a commonly adopted security
+measure for coin flipping protocols. This work presents two techniques to lower
+the bias of such protocols, namely self-testing and abort-phobic compositions.
+We apply these techniques to the SCAKPM '11 protocol above and, assuming a
+continuity conjecture, lower the bias to $\varepsilon \approx 0.29104$. We
+believe that these techniques could be useful in the design of
+device-independent protocols for a variety of other tasks.
+
+> Independently of weak coin flipping, en route to our results, we show how one
+can test $n-1$ out of $n$ devices, and estimate the performance of the
+remaining device, for later use in the protocol. The proof uses linear
+programming and, due to its generality, may find applications elsewhere.
+
+</details>
+
+
+<details>
+<summary>
+
+### Impossibility of adversarial self-testing and secure sampling
+*Akshay Bansal, Atul Singh Arora, Thomas Van Himbeeck and Jamie Sikora*
+
+<sub> Oct 2023 [ [arXiv](https://arxiv.org/abs/2310.12838) ]    </sub>  
+<sub> 6 pages, 3 figures</sub>
+</summary>
+
+> Self-testing is the task where spatially separated Alice and Bob cooperate to deduce the inner workings of untrusted quantum devices by interacting with them in a classical manner. We examine the task above where Alice and Bob do not trust each other which we call *adversarial self-testing*. We show that adversarial self-testing implies *secure sampling*---a task that we introduce where mistrustful Alice and Bob wish to sample from a joint probability distribution with the guarantee that an honest party's marginal is not biased. By extending impossibility results in two-party quantum cryptography, we give a simple proof that both of these tasks are impossible in all but trivial settings.
+</details>
+
+
+<details>
+<summary>
+
+### Self-Testing of a Single Quantum System: Theory and Experiment
+*Xiao-Min Hu, Yi Xie, Atul Singh Arora, Ming-Zhong Ai, Kishor Bharti, Jie Zhang, Wei Wu, Ping-Xing Chen, Jin-Ming Cui, Bi-Heng Liu, Yun-Feng Huang, Chuan-Feng Li, Guang-Can Guo, Jérémie Roland, Adán Cabello, Leong-Chuan Kwek*
+
+<sub> Oct 2023 [ [npj QI](https://doi.org/10.1038/s41534-023-00769-7) ] —— [ [arXiv](https://arxiv.org/abs/2203.09003) ]    </sub>  
+<sub>19+6 pages, 2+1 figures</sub>
+</summary>
+
+> Self-testing allows for characterising quantum systems under minimal assumptions.
+However, existing schemes rely on quantum non-locality and cannot be applied to systems that are not entangled. Here, we introduce a robust method that achieves self-testing of individual systems by taking advantage of contextuality. The scheme is based on the simplest contextuality witness for the simplest contextual quantum system---the Klyachko-Can-Binicioğlu-Shumovsky inequality for the qutrit. We establish a lower bound on the fidelity of the state and the measurements as a function of the value of the witness under a pragmatic assumption on the measurements. We apply the method in an experiment on a single trapped $^{40}{\rm Ca}^+$ and using randomly chosen measurements and perfect detection efficiency. Using the observed statistics, we obtain the first experimental demonstration of self-testing of a single quantum system with negligible deviations from the assumptions.
+</details>
+
+
+
+
 <details open>
 <summary>
 
@@ -36,7 +111,7 @@ For my doctoral dissertation (Sep 2020), I was advised by Jérémie ROLAND at [U
 
 *Atul Singh Arora, Andrea Coladangelo, Matthew Coudron, Alexandru Gheorghiu, Uttam Singh, Hendrik Waldner*
 
-<sub> Oct 2022 [ [arXiv](https://arxiv.org/abs/2210.06454) | [GitHub](https://atulsingharora.github.io/instaDepth) ] —— [ [STOC '23](http://acm-stoc.org/stoc2023/accepted.html) ]  </sub>  
+<sub> June 2023 [ [STOC '23](https://doi.org/10.1145/3564246.3585153), [TQC '23](https://tqc-conference.org/talks/) ]  ——  [ [arXiv](https://arxiv.org/abs/2210.06454) | [GitHub](https://atulsingharora.github.io/instaDepth) ]   </sub>  
 <sub>104 pages (+9 page Appendix), 10 figures
 </summary>
 
@@ -55,7 +130,7 @@ For my doctoral dissertation (Sep 2020), I was advised by Jérémie ROLAND at [U
  (Consolidation of all our previous results about weak coin flipping into a single journal version)  
 *Atul Singh Arora, Jérémie Roland, Chrysoula Vlachou, Stephan Weis*
 
-<sub> Aug 2022 [ [ePrint](https://eprint.iacr.org/2022/1101) ] —— [preparing to submit]  </sub>  
+<sub> Aug 2022 [ [ePrint](https://eprint.iacr.org/2022/1101) ] —— [submitted]  </sub>  
 <sub> 110 + 28 pages, 24 figures</sub>
 
 </summary>
@@ -64,20 +139,6 @@ For my doctoral dissertation (Sep 2020), I was advised by Jérémie ROLAND at [U
 
 </details>
 
-
-<details>
-<summary>
-
-### Self-Testing of a Single Quantum System: Theory and Experiment
-*Xiao-Min Hu, Yi Xie, Atul Singh Arora, Ming-Zhong Ai, Kishor Bharti, Jie Zhang, Wei Wu, Ping-Xing Chen, Jin-Ming Cui, Bi-Heng Liu, Yun-Feng Huang, Chuan-Feng Li, Guang-Can Guo, Jérémie Roland, Adán Cabello, Leong-Chuan Kwek*
-
-<sub> Mar 2022 [ [arXiv](https://arxiv.org/abs/2203.09003) ] —— [preparing to submit]  </sub>  
-<sub>19+6 pages, 2+1 figures</sub>
-</summary>
-
-> Self-testing allows for characterising quantum systems under minimal assumptions.
-However, existing schemes rely on quantum non-locality and cannot be applied to systems that are not entangled. Here, we introduce a robust method that achieves self-testing of individual systems by taking advantage of contextuality. The scheme is based on the simplest contextuality witness for the simplest contextual quantum system---the Klyachko-Can-Binicioğlu-Shumovsky inequality for the qutrit. We establish a lower bound on the fidelity of the state and the measurements as a function of the value of the witness under a pragmatic assumption on the measurements. We apply the method in an experiment on a single trapped $^{40}{\rm Ca}^+$ and using randomly chosen measurements and perfect detection efficiency. Using the observed statistics, we obtain the first experimental demonstration of self-testing of a single quantum system with negligible deviations from the assumptions.
-</details>
 
 
 
@@ -88,7 +149,7 @@ However, existing schemes rely on quantum non-locality and cannot be applied to 
 ### Oracle separations of hybrid quantum-classical circuits
 *Atul Singh Arora, Alexandru Gheorghiu, Uttam Singh*
 
-<sub> Jan 2022 [ [arXiv](https://arxiv.org/abs/2201.01904) | [GitHub](https://atulsingharora.github.io/HQC) ] —— [submitted]  </sub>  
+<sub> Jan 2022 [ [arXiv](https://arxiv.org/abs/2201.01904) | [GitHub](https://atulsingharora.github.io/HQC) ] —— [submitting]  </sub>  
 <sub>47 pages, 5 figures</sub>
 
 </summary>
@@ -102,31 +163,10 @@ In this paper, we show that, despite the similarities between CQ_d and QC_d, the
 <details>
 <summary>
 
-### Improving the security of device independent weak coin flipping protocols
-*Atul Singh Arora, Jamie Sikora, Tom Van Himbeeck*
-
- <sub> Oct 2021 [ [overleaf](https://www.overleaf.com/read/jhwnvgbntqkd) ] —— [finalising preparation]  </sub>  
-<sub> 21 + 1 pages, 3 figures </sub>
-
-</summary> 
-
-> Weak coin flipping is the cryptographic task where Alice and Bob remotely flip a coin but want opposite outcomes. 
-This work studies this task in the device-independent regime where Alice and Bob neither trust each other, nor their quantum devices. 
-The best protocol was devised ten years ago by Silman, Chailloux, Aharon, Kerenidis, Pironio, and Massar with bias $\epsilon \le 0.33664$, where the bias is a commonly adopted security measure for coin flipping protocols. 
-This work presents some techniques to lower the bias of device-independent weak coin flipping protocols, namely self-testing and abort-phobic compositions. 
-By applying these techniques to the SCAKPM '11 protocol above, we are able to lower the bias to $\epsilon \approx 0.31486$ and assuming a continuity conjecture, we can suppress it further to $\epsilon \approx 0.29104$. 
-In our analysis, we show how to harness the rigidity bounds for the GHZ game in our setting and examine the continuity of an optimisation problem to bound the bias, which may be of independent interest.  
-
-</details>
-
-
-<details>
-<summary>
-
 ### Analytic quantum weak coin flipping protocols with arbitrarily small bias
 *Atul Singh Arora, Jérémie Roland, Chrysoula Vlachou*
 
-<sub> 13 July 2020 [ [arXiv](https://arxiv.org/abs/1911.13283) | [GitHub](https://atulsingharora.github.io/WCF2) ] —— [ [SODA '21](), QIP '21, QCrypt '21 ] </sub>  
+<sub> Jan 2021 [ [SODA '21](), QIP '21, QCrypt '21 ] —— [ [arXiv](https://arxiv.org/abs/1911.13283) | [GitHub](https://atulsingharora.github.io/WCF2) ]  </sub>  
 <sub>13+14 pages, 3 figures</sub>
 </summary>
 
@@ -140,7 +180,7 @@ In our analysis, we show how to harness the rigidity bounds for the GHZ game in 
 ### All fundamental non-contextuality inequalities are unique
 *Kishor Bharti, Atul Singh Arora, Leong Chuan Kwek, Jérémie Roland*
 
-<sub> Dec 2019 [ [arXiv](https://arxiv.org/abs/1811.05294) ] —— [ [Phys Rev Res 2020](https://doi.org/10.1103/PhysRevResearch.2.033010) ]
+<sub> July 2020 [ [Phys Rev Res 2020](https://doi.org/10.1103/PhysRevResearch.2.033010) ] ——  [ [arXiv](https://arxiv.org/abs/1811.05294) ]
  </sub>  
 <sub>17 pages (5 main, 12 appendix), 4 figures</sub>
 
@@ -157,8 +197,8 @@ In our analysis, we show how to harness the rigidity bounds for the GHZ game in 
 ### Quantum Weak Coin Flipping
 *Atul Singh Arora, Jérémie Roland, Stephan Weis*
 
-<sub> Nov 2018 [ [arXiv](https://arxiv.org/abs/1811.02984) | [GitHub](https://atulsingharora.github.io/WCF) ] —— 
-[ [STOC '19](https://doi.org/10.1145/3313276.3316306), QIP '19 ]  
+<sub> June, 2019 [ [STOC '19](https://doi.org/10.1145/3313276.3316306), QIP '19 ] —— [ [arXiv](https://arxiv.org/abs/1811.02984) | [GitHub](https://atulsingharora.github.io/WCF) ]  
+
 98 pages, split into 3 parts, 10 figures
 </sub>
 
@@ -175,8 +215,8 @@ In our analysis, we show how to harness the rigidity bounds for the GHZ game in 
 
 *Atul Singh Arora, Kishor Bharti, Arvind*
 
-<sub> Nov 2018 [ [arXiv](https://arxiv.org/abs/1607.03498) ] —— 
-[ [Phys Lett A, 2018](https://doi.org/10.1016/j.physleta.2018.11.049) ]   
+<sub> Feb 2019 [ [Phys Lett A, 2018](https://doi.org/10.1016/j.physleta.2018.11.049) ]  ——  [ [arXiv](https://arxiv.org/abs/1607.03498) ] 
+
 4 pages, 1 figure
 </sub>
 
@@ -194,8 +234,8 @@ In our analysis, we show how to harness the rigidity bounds for the GHZ game in 
 
 *Atul Singh Arora, Ali Asadian*
 
-<sub> Aug 2015 [ [arXiv](https://arxiv.org/abs/1508.04588)  ] —— 
-[ [Phys Rev A, 2015](https://doi.org/10.1103/PhysRevA.92.062107) ]  
+<sub> Dec 2015 [ [Phys Rev A, 2015](https://link.aps.org/doi/10.1103/PhysRevA.92.062107) ] ——   [ [arXiv](https://arxiv.org/abs/1508.04588)  ] 
+
 9 pages, 3 figures
 </sub>
 
