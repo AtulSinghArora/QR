@@ -41,7 +41,7 @@ I was a postdoctoral researcher at [Caltech](https://iqim.caltech.edu/people/pos
 
 ## Research
 
-<details>
+<details open>
 <summary>
 
 ### A computational test of quantum contextuality, and even simpler proofs of quantumness
