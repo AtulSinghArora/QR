@@ -29,8 +29,17 @@ proposed in the literature so far.
 
 
 ### Article
-* [Latest version](PoC.pdf)
-<!-- * [arXiv version](https://arxiv.org/) -->
+
+[[Latest](PoC_1v01.pdf)] [[arXiv](http://arxiv.org/abs/2405.06787)] 
+
+
+| Version | Description | 
+| -- | -- |
+| [1.1](PoC_1v01.pdf)    | Missing acknowledgements added |
+| [1.0](PoC.pdf) | arXiv version |
+
+
+
 
 
 ### Authors
