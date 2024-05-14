@@ -30,12 +30,12 @@ proposed in the literature so far.
 
 ### Article
 
-[[current](PoC_1v1.pdf)] [[arXiv](http://arxiv.org/abs/2405.06787)] 
+[[current](PoC_1v01.pdf)] [[arXiv](http://arxiv.org/abs/2405.06787)] 
 
 
-| Version | Description | 
+| Version | Changes | 
 | -- | -- |
-| [1.1](PoC_1v1.pdf)    | Missing acknowledgements added |
+| [1.01](PoC_1v01.pdf)    | Missing acknowledgements added |
 | [1.0](PoC.pdf) | arXiv version |
 
 
