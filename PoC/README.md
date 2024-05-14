@@ -41,7 +41,6 @@ proposed in the literature so far.
 
 
 
-
 ### Authors
 
 Atul Singh Arora, Kishor Bharti, Alexandru Cojocaru, Andrea Coladangelo
