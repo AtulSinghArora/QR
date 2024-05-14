@@ -47,7 +47,7 @@ I was a postdoctoral researcher at [Caltech](https://iqim.caltech.edu/people/pos
 ### A computational test of quantum contextuality, and even simpler proofs of quantumness
 *Atul Singh Arora, Kishor Bharti, Alexandru Cojocaru, Andrea Coladangelo*
 
-<sub> May 2024 [ [GitHub](https://atulsingharora.github.io/PoC) ]  </sub>  
+<sub> May 2024 [ [arXiv](http://arxiv.org/abs/2405.06787) | [GitHub](https://atulsingharora.github.io/PoC) ] </sub>  
 <sub> 69 pages, 6 figures </sub>
 
 </summary> 
