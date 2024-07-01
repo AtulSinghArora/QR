@@ -5,7 +5,11 @@
 
 <!-- ![image](https://github.com/AtulSinghArora/QR/assets/2003122/3b08e6fa-707d-45ec-96df-7bec77c01f48) -->
 
-<img align="right" src ="https://github.com/AtulSinghArora/QR/assets/2003122/3b08e6fa-707d-45ec-96df-7bec77c01f48" width=180 />
+<!-- ![profile_](https://github.com/AtulSinghArora/QR/assets/2003122/86090e43-ac7f-4978-b576-29ce11c69ab5) -->
+
+<img align="right" src ="https://github.com/AtulSinghArora/QR/assets/2003122/86090e43-ac7f-4978-b576-29ce11c69ab5" width=180 />
+
+<!-- <img align="right" src ="https://github.com/AtulSinghArora/QR/assets/2003122/3b08e6fa-707d-45ec-96df-7bec77c01f48" width=180 /> -->
 
  <!-- <img align="right" src ="https://github.com/AtulSinghArora/QR/assets/2003122/4dee787a-c3ef-4c66-8ee2-a103c53e1f7a" width=140 /> -->
 
