@@ -53,7 +53,7 @@ I was a postdoctoral researcher at [Caltech](https://iqim.caltech.edu/people/pos
 ### Impossibility of adversarial self-testing and secure sampling
 *Akshay Bansal, Atul Singh Arora, Thomas Van Himbeeck and Jamie Sikora*
 
-<sub> Aug 2024  [ [Phys Rev Research](https://link.aps.org/doi/10.1103/PhysRevResearch.6.L032039)] —— [ [arXiv](https://arxiv.org/abs/2310.12838) ]   </sub>  
+<sub> Aug 2024  [ [Phys Rev Research](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.L032039)] —— [ [arXiv](https://arxiv.org/abs/2310.12838) ]   </sub>  
 <sub> 6 pages, 3 figures</sub>
 </summary>
 
