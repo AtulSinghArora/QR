@@ -47,6 +47,19 @@ I was a postdoctoral researcher at [Caltech](https://iqim.caltech.edu/people/pos
 
 ## Research
 
+<details>
+<summary>
+
+### Impossibility of adversarial self-testing and secure sampling
+*Akshay Bansal, Atul Singh Arora, Thomas Van Himbeeck and Jamie Sikora*
+
+<sub> Aug 2024  [ [Phys Rev Research](https://link.aps.org/doi/10.1103/PhysRevResearch.6.L032039)] —— [ [arXiv](https://arxiv.org/abs/2310.12838) ]   </sub>  
+<sub> 6 pages, 3 figures</sub>
+</summary>
+
+> Self-testing is the task where spatially separated Alice and Bob cooperate to deduce the inner workings of untrusted quantum devices by interacting with them in a classical manner. We examine the task above where Alice and Bob do not trust each other which we call *adversarial self-testing*. We show that adversarial self-testing implies *secure sampling*---a task that we introduce where mistrustful Alice and Bob wish to sample from a joint probability distribution with the guarantee that an honest party's marginal is not biased. By extending impossibility results in two-party quantum cryptography, we give a simple proof that both of these tasks are impossible in all but trivial settings.
+</details>
+
 <details open>
 <summary>
 
@@ -119,19 +132,6 @@ programming and, due to its generality, may find applications elsewhere.
 
 </details>
 
-
-<details>
-<summary>
-
-### Impossibility of adversarial self-testing and secure sampling
-*Akshay Bansal, Atul Singh Arora, Thomas Van Himbeeck and Jamie Sikora*
-
-<sub> Oct 2023 [ [arXiv](https://arxiv.org/abs/2310.12838) ]    </sub>  
-<sub> 6 pages, 3 figures</sub>
-</summary>
-
-> Self-testing is the task where spatially separated Alice and Bob cooperate to deduce the inner workings of untrusted quantum devices by interacting with them in a classical manner. We examine the task above where Alice and Bob do not trust each other which we call *adversarial self-testing*. We show that adversarial self-testing implies *secure sampling*---a task that we introduce where mistrustful Alice and Bob wish to sample from a joint probability distribution with the guarantee that an honest party's marginal is not biased. By extending impossibility results in two-party quantum cryptography, we give a simple proof that both of these tasks are impossible in all but trivial settings.
-</details>
 
 
 <details>
@@ -227,7 +227,7 @@ In this paper, we show that, despite the similarities between CQ_d and QC_d, the
 ### All fundamental non-contextuality inequalities are unique
 *Kishor Bharti, Atul Singh Arora, Leong Chuan Kwek, Jérémie Roland*
 
-<sub> July 2020 [ [Phys Rev Res 2020](https://doi.org/10.1103/PhysRevResearch.2.033010) ] ——  [ [arXiv](https://arxiv.org/abs/1811.05294) ]
+<sub> July 2020 [ [Phys Rev Research](https://link.aps.org/doi/10.1103/PhysRevResearch.6.L032039) ] ——  [ [arXiv](https://arxiv.org/abs/1811.05294) ]
  </sub>  
 <sub>17 pages (5 main, 12 appendix), 4 figures</sub>
 
