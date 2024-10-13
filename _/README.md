@@ -3,9 +3,15 @@
  <!-- <img align="right" src ="https://user-images.githubusercontent.com/2003122/210131262-a28c9323-be40-4109-a8ad-0fc1f7a1870c.jpeg" width=190 />  -->
  <!-- <img align="right" src ="https://github.com/AtulSinghArora/QR/assets/2003122/be641605-5d9c-421f-b3ce-37a10fa93077" width=190 /> -->
 
+<!-- ![image](https://github.com/AtulSinghArora/QR/assets/2003122/3b08e6fa-707d-45ec-96df-7bec77c01f48) -->
 
+<!-- ![profile_](https://github.com/AtulSinghArora/QR/assets/2003122/86090e43-ac7f-4978-b576-29ce11c69ab5) -->
 
- <img align="right" src ="https://github.com/AtulSinghArora/QR/assets/2003122/4dee787a-c3ef-4c66-8ee2-a103c53e1f7a" width=140 />
+<img align="right" src ="https://github.com/AtulSinghArora/QR/assets/2003122/86090e43-ac7f-4978-b576-29ce11c69ab5" width=180 />
+
+<!-- <img align="right" src ="https://github.com/AtulSinghArora/QR/assets/2003122/3b08e6fa-707d-45ec-96df-7bec77c01f48" width=180 /> -->
+
+ <!-- <img align="right" src ="https://github.com/AtulSinghArora/QR/assets/2003122/4dee787a-c3ef-4c66-8ee2-a103c53e1f7a" width=140 /> -->
 
 <!-- ![frml_ARORA_Feb_2024_cropped_](https://github.com/AtulSinghArora/QR/assets/2003122/4dee787a-c3ef-4c66-8ee2-a103c53e1f7a) -->
 
@@ -18,7 +24,7 @@
 
 I am a postdoctoral researcher at the [University of Maryland](https://quics.umd.edu/people/atul-singh-arora).
 
-I am fascinated by the emergence of physical insight from the application of quantum mechanics to solving computational or cryptographic tasks. I was initially drawn to the field by the possibility of having information theoretic security in certain cryptographic settings (e.g. key distribution, coin flipping). Currently, I am excited by the prospect of understanding and testing various aspects of quantum mechanics under computational assumptions (e.g. compressed oracle simulation, quantum depth). 
+I am fascinated by the emergence of physical insight from the application of quantum mechanics to solving computational or cryptographic tasks. I was initially drawn to the field by the possibility of having information theoretic security in certain cryptographic settings (e.g. key distribution, coin flipping). Currently, I am excited by the prospect of understanding and testing various aspects of quantum mechanics under computational assumptions. 
 
 <sub> [ atul.singh.arora@gmail.com | asarora@caltech.edu ] </sub>
 
@@ -26,7 +32,7 @@ I am fascinated by the emergence of physical insight from the application of qua
 
 ## Education
 
-I was a postdoctoral researcher at [Caltech](https://iqim.caltech.edu/people/postdocs/), under the supervision of Prof Thomas VIDICK (presently at [Weizmann](https://www.weizmann.ac.il/pages/)). For my doctoral dissertation (Sep 2020), I was advised by Prof Jérémie ROLAND at [Université libre de Bruxelles](http://quic.ulb.ac.be/members/past). I obtained my Bachelor's and Master's (May 2016) from [IISER Mohali](https://www.iisermohali.ac.in/students/people-sublinks/bs-ms-2011-batch), (India). I majored in physics and my master's thesis advisor was Prof Arvind. 
+I was a postdoctoral researcher at [Caltech](https://iqim.caltech.edu/people/postdocs/), under the supervision of Prof Thomas VIDICK. For my doctoral dissertation (Sep 2020), I was advised by Prof Jérémie ROLAND at [Université libre de Bruxelles](http://quic.ulb.ac.be/members/past). I obtained my Bachelor's and Master's (May 2016) from [IISER Mohali](https://www.iisermohali.ac.in/students/people-sublinks/bs-ms-2011-batch), (India). I majored in physics and my master's thesis advisor was Prof Arvind. 
 
 <sub>[ [curriculum vitae](https://atulsingharora.github.io/CV/cv.pdf) ] </sub>
 
@@ -41,13 +47,26 @@ I was a postdoctoral researcher at [Caltech](https://iqim.caltech.edu/people/pos
 
 ## Research
 
+<details>
+<summary>
+
+### Impossibility of adversarial self-testing and secure sampling
+*Akshay Bansal, Atul Singh Arora, Thomas Van Himbeeck and Jamie Sikora*
+
+<sub> Aug 2024  [ [Phys Rev Research](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.L032039)] —— [ [arXiv](https://arxiv.org/abs/2310.12838) ]   </sub>  
+<sub> 6 pages, 3 figures</sub>
+</summary>
+
+> Self-testing is the task where spatially separated Alice and Bob cooperate to deduce the inner workings of untrusted quantum devices by interacting with them in a classical manner. We examine the task above where Alice and Bob do not trust each other which we call *adversarial self-testing*. We show that adversarial self-testing implies *secure sampling*---a task that we introduce where mistrustful Alice and Bob wish to sample from a joint probability distribution with the guarantee that an honest party's marginal is not biased. By extending impossibility results in two-party quantum cryptography, we give a simple proof that both of these tasks are impossible in all but trivial settings.
+</details>
+
 <details open>
 <summary>
 
 ### A computational test of quantum contextuality, and even simpler proofs of quantumness
 *Atul Singh Arora, Kishor Bharti, Alexandru Cojocaru, Andrea Coladangelo*
 
-<sub> May 2024 [ [GitHub](https://atulsingharora.github.io/PoC) ]  </sub>  
+<sub> May 2024 [ [arXiv](http://arxiv.org/abs/2405.06787) | [GitHub](https://atulsingharora.github.io/PoC) ] —— [ [Accepted FOCS'24](https://focs.computer.org/2024/accepted-papers-for-focs-2024/) ] </sub>  
 <sub> 69 pages, 6 figures </sub>
 
 </summary> 
@@ -113,19 +132,6 @@ programming and, due to its generality, may find applications elsewhere.
 
 </details>
 
-
-<details>
-<summary>
-
-### Impossibility of adversarial self-testing and secure sampling
-*Akshay Bansal, Atul Singh Arora, Thomas Van Himbeeck and Jamie Sikora*
-
-<sub> Oct 2023 [ [arXiv](https://arxiv.org/abs/2310.12838) ]    </sub>  
-<sub> 6 pages, 3 figures</sub>
-</summary>
-
-> Self-testing is the task where spatially separated Alice and Bob cooperate to deduce the inner workings of untrusted quantum devices by interacting with them in a classical manner. We examine the task above where Alice and Bob do not trust each other which we call *adversarial self-testing*. We show that adversarial self-testing implies *secure sampling*---a task that we introduce where mistrustful Alice and Bob wish to sample from a joint probability distribution with the guarantee that an honest party's marginal is not biased. By extending impossibility results in two-party quantum cryptography, we give a simple proof that both of these tasks are impossible in all but trivial settings.
-</details>
 
 
 <details>
@@ -221,7 +227,7 @@ In this paper, we show that, despite the similarities between CQ_d and QC_d, the
 ### All fundamental non-contextuality inequalities are unique
 *Kishor Bharti, Atul Singh Arora, Leong Chuan Kwek, Jérémie Roland*
 
-<sub> July 2020 [ [Phys Rev Res 2020](https://doi.org/10.1103/PhysRevResearch.2.033010) ] ——  [ [arXiv](https://arxiv.org/abs/1811.05294) ]
+<sub> July 2020 [ [Phys Rev Research](https://link.aps.org/doi/10.1103/PhysRevResearch.6.L032039) ] ——  [ [arXiv](https://arxiv.org/abs/1811.05294) ]
  </sub>  
 <sub>17 pages (5 main, 12 appendix), 4 figures</sub>
 
