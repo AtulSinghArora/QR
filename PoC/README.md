@@ -35,6 +35,7 @@ proposed in the literature so far.
 
 | Version | Changes | 
 | -- | -- |
+| [2.01](PoC 2v01.pdf) | Major revision. Added an operational definition for test of contextuality. |
 | [1.01](PoC_1v01.pdf)    | Missing acknowledgements added |
 | [1.0](PoC.pdf) | arXiv version |
 
