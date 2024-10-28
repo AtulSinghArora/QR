@@ -33,12 +33,12 @@ proposed in the literature so far.
 <sub> [ [current](PoC_2v02.pdf) | [arXiv](http://arxiv.org/abs/2405.06787) ]  </sub>
 
 
-| Version | Changes | 
-| -- | -- |
-| [2.02](PoC_2v02.pdf) (arXiv~v2) | Various improvements: added instantiation of OPad for arbitrary groups, added PoQ with efficient range sampling, and comparison to PoQ. | 
-| [2.01](PoC_2v01.pdf) | Major revision. Added an operational definition for test of contextuality. Added additional requirements on OPad to satisfy this condition. |
-| [1.01](PoC_1v01.pdf)    | Missing acknowledgements added |
-| [1.0](PoC.pdf) (arXiv) | arXiv version |
+| Version | arXiv | Changes | 
+| -- | -- | -- |
+| [2.02](PoC_2v02.pdf) | v2 | arXiv v2. Various improvements: added instantiation of OPad for arbitrary groups, added PoQ with efficient range sampling, and comparison to PoQ. | 
+| [2.01](PoC_2v01.pdf) | | Major revision. Added an operational definition for test of contextuality. Added additional requirements on OPad to satisfy this condition. |
+| [1.01](PoC_1v01.pdf)  |  | Missing acknowledgements added |
+| [1.0](PoC.pdf) | v1 | arXiv version |
 
 
 ### Authors
