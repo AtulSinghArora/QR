@@ -30,7 +30,7 @@ proposed in the literature so far.
 
 ### Article
 
-<sub> [ [current](PoC_2v02.pdf) | [arXiv](http://arxiv.org/abs/2405.06787) ] | [FOCS version](167400b106.pdf) </sub>
+<sub> [ [current](PoC_2v02.pdf) | [arXiv](http://arxiv.org/abs/2405.06787) | [FOCS version](167400b106.pdf) ] </sub>
 
 
 | Version | arXiv | Changes | 
