@@ -47,18 +47,6 @@ I was a postdoctoral researcher at [Caltech](https://iqim.caltech.edu/people/pos
 
 ## Research
 
-<details>
-<summary>
-
-### Impossibility of adversarial self-testing and secure sampling
-*Akshay Bansal, Atul Singh Arora, Thomas Van Himbeeck and Jamie Sikora*
-
-<sub> Aug 2024  [ [Phys Rev Research](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.L032039)] —— [ [arXiv](https://arxiv.org/abs/2310.12838) ]   </sub>  
-<sub> 6 pages, 3 figures</sub>
-</summary>
-
-> Self-testing is the task where spatially separated Alice and Bob cooperate to deduce the inner workings of untrusted quantum devices by interacting with them in a classical manner. We examine the task above where Alice and Bob do not trust each other which we call *adversarial self-testing*. We show that adversarial self-testing implies *secure sampling*---a task that we introduce where mistrustful Alice and Bob wish to sample from a joint probability distribution with the guarantee that an honest party's marginal is not biased. By extending impossibility results in two-party quantum cryptography, we give a simple proof that both of these tasks are impossible in all but trivial settings.
-</details>
 
 <details open>
 <summary>
@@ -66,8 +54,8 @@ I was a postdoctoral researcher at [Caltech](https://iqim.caltech.edu/people/pos
 ### A computational test of quantum contextuality, and even simpler proofs of quantumness
 *Atul Singh Arora, Kishor Bharti, Alexandru Cojocaru, Andrea Coladangelo*
 
-<sub> May 2024 [ [arXiv](http://arxiv.org/abs/2405.06787) | [GitHub](https://atulsingharora.github.io/PoC) ] —— [ [Accepted FOCS'24](https://focs.computer.org/2024/accepted-papers-for-focs-2024/) ] </sub>  
-<sub> 69 pages, 6 figures </sub>
+<sub> Oct 2024 [ [FOCS'24](https://doi.org/10.1109/FOCS61266.2024.00073/) ] —— [ [arXiv (full version)](http://arxiv.org/abs/2405.06787) | [GitHub](https://atulsingharora.github.io/PoC) ] </sub>  
+<sub>  81 pages, 5 figures  </sub>
 
 </summary> 
 
@@ -98,6 +86,20 @@ restrict communication between sequential measurements.
 that, to the best of our knowledge, is arguably even simpler than the ones
 proposed in the literature so far.
 
+</details>
+
+
+<details>
+<summary>
+
+### Impossibility of adversarial self-testing and secure sampling
+*Akshay Bansal, Atul Singh Arora, Thomas Van Himbeeck and Jamie Sikora*
+
+<sub> Aug 2024  [ [Phys Rev Research](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.L032039)] —— [ [arXiv](https://arxiv.org/abs/2310.12838) ]   </sub>  
+<sub> 6 pages, 3 figures</sub>
+</summary>
+
+> Self-testing is the task where spatially separated Alice and Bob cooperate to deduce the inner workings of untrusted quantum devices by interacting with them in a classical manner. We examine the task above where Alice and Bob do not trust each other which we call *adversarial self-testing*. We show that adversarial self-testing implies *secure sampling*---a task that we introduce where mistrustful Alice and Bob wish to sample from a joint probability distribution with the guarantee that an honest party's marginal is not biased. By extending impossibility results in two-party quantum cryptography, we give a simple proof that both of these tasks are impossible in all but trivial settings.
 </details>
 
 
