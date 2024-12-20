@@ -22,17 +22,15 @@
 
 <!-- <img align="right" src ="https://user-images.githubusercontent.com/2003122/210131194-0be951ce-4312-44e6-92fc-c8ad91bfa46e.jpeg" width=190 /> -->
 
-I am a postdoctoral researcher at the [University of Maryland](https://quics.umd.edu/people/atul-singh-arora).
+I am a researcher at IIIT Hyderabad, India. I am fascinated by the emergence of physical insight from the application of quantum mechanics to solving computational or cryptographic tasks. I was initially drawn to the field by the possibility of having information theoretic security in certain cryptographic settings (e.g. key distribution, coin flipping). Currently, I am excited by the prospect of understanding and testing various aspects of quantum physics under computational assumptions. 
 
-I am fascinated by the emergence of physical insight from the application of quantum mechanics to solving computational or cryptographic tasks. I was initially drawn to the field by the possibility of having information theoretic security in certain cryptographic settings (e.g. key distribution, coin flipping). Currently, I am excited by the prospect of understanding and testing various aspects of quantum mechanics under computational assumptions. 
-
-<sub> [ atul.singh.arora@gmail.com | asarora@caltech.edu ] </sub>
+<sub> [ atul.singh.arora@gmail.com | atul.arora@iiit.ac.in ] </sub>
 
 
 
 ## Education
 
-I was a postdoctoral researcher at [Caltech](https://iqim.caltech.edu/people/postdocs/), under the supervision of Prof Thomas VIDICK. For my doctoral dissertation (Sep 2020), I was advised by Prof Jérémie ROLAND at [Université libre de Bruxelles](http://quic.ulb.ac.be/members/past). I obtained my Bachelor's and Master's (May 2016) from [IISER Mohali](https://www.iisermohali.ac.in/students/people-sublinks/bs-ms-2011-batch), (India). I majored in physics and my master's thesis advisor was Prof Arvind. 
+I spent a year as a Hartree fellow (postdoctoral position) at the [University of Maryland](https://quics.umd.edu/people/atul-singh-arora). Prior to that, I was a postdoctoral researcher at [Caltech](https://iqim.caltech.edu/people/postdocs/), under the supervision of Prof Thomas VIDICK. For my doctoral dissertation (Sep 2020), I was advised by Prof Jérémie ROLAND at [Université libre de Bruxelles](http://quic.ulb.ac.be/members/past). I obtained my Bachelor's and Master's (May 2016) from [IISER Mohali](https://www.iisermohali.ac.in/students/people-sublinks/bs-ms-2011-batch), (India). I majored in physics and my master's thesis advisor was Prof Arvind. 
 
 <sub>[ [curriculum vitae](https://atulsingharora.github.io/CV/cv.pdf) ] </sub>
 
@@ -54,7 +52,7 @@ I was a postdoctoral researcher at [Caltech](https://iqim.caltech.edu/people/pos
 ### A computational test of quantum contextuality, and even simpler proofs of quantumness
 *Atul Singh Arora, Kishor Bharti, Alexandru Cojocaru, Andrea Coladangelo*
 
-<sub> Oct 2024 [ [FOCS'24](https://doi.org/10.1109/FOCS61266.2024.00073/) ] —— [ [arXiv (full version)](http://arxiv.org/abs/2405.06787) | [GitHub](https://atulsingharora.github.io/PoC) ] </sub>  
+<sub> Oct 2024 [ [QIP '25](https://rsvp.duke.edu/event/qip2025/accepted-talks) | [FOCS'24](https://doi.org/10.1109/FOCS61266.2024.00073/) ] —— [ [arXiv (full version)](http://arxiv.org/abs/2405.06787) | [GitHub](https://atulsingharora.github.io/PoC) ] </sub>  
 <sub>  81 pages, 5 figures  </sub>
 
 </summary> 
