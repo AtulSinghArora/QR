@@ -7,7 +7,17 @@
 
 <!-- ![profile_](https://github.com/AtulSinghArora/QR/assets/2003122/86090e43-ac7f-4978-b576-29ce11c69ab5) -->
 
-<img align="right" src ="https://github.com/AtulSinghArora/QR/assets/2003122/86090e43-ac7f-4978-b576-29ce11c69ab5" width=180 />
+<!-- <img align="right" src ="https://github.com/AtulSinghArora/QR/assets/2003122/86090e43-ac7f-4978-b576-29ce11c69ab5" width=180 /> -->
+
+<img align="right" src ="https://github.com/user-attachments/assets/1052bcc5-82fc-4475-aaa2-274e342317d8" width=130 />
+
+<!-- <img align="right" src ="https://github.com/user-attachments/assets/d1ffaf2e-f182-418f-ae85-4103cbe04bc6" width=130 /> -->
+
+<!-- ![image](https://github.com/user-attachments/assets/1052bcc5-82fc-4475-aaa2-274e342317d8) -->
+
+
+<!-- ![image](https://github.com/user-attachments/assets/d1ffaf2e-f182-418f-ae85-4103cbe04bc6) -->
+
 
 <!-- <img align="right" src ="https://github.com/AtulSinghArora/QR/assets/2003122/3b08e6fa-707d-45ec-96df-7bec77c01f48" width=180 /> -->
 
@@ -32,7 +42,7 @@ I am a researcher at IIIT Hyderabad, India. I am fascinated by the emergence of 
 
 I spent a year as a Hartree fellow (postdoctoral position) at the [University of Maryland](https://quics.umd.edu/people/atul-singh-arora). Prior to that, I was a postdoctoral researcher at [Caltech](https://iqim.caltech.edu/people/postdocs/), under the supervision of Prof Thomas VIDICK. For my doctoral dissertation (Sep 2020), I was advised by Prof Jérémie ROLAND at [Université libre de Bruxelles](http://quic.ulb.ac.be/members/past). I obtained my Bachelor's and Master's (May 2016) from [IISER Mohali](https://www.iisermohali.ac.in/students/people-sublinks/bs-ms-2011-batch), (India). I majored in physics and my master's thesis advisor was Prof Arvind. 
 
-<sub>[ [curriculum vitae](https://atulsingharora.github.io/CV/cv.pdf) ] </sub>
+<sub>[ [curriculum vitae](https://atulsingharora.github.io/CV/cv.pdf) ] (last updated: 2023 end) </sub>
 
 
 <!-- 
@@ -107,7 +117,7 @@ proposed in the literature so far.
 ### Improving device independent weak coin flipping protocols
 *Atul Singh Arora, Jamie Sikora, Tom Van Himbeeck*
 
- <sub> Apr 2024 [ [arXiv](https://arxiv.org/abs/2404.17079) ]  </sub>  
+ <sub> Apr 2024 [ [arXiv](https://arxiv.org/abs/2404.17079) ] —— [submitted]  </sub>  
 <sub> 25 pages, 7 figures </sub>
 
 </summary> 
@@ -196,7 +206,7 @@ However, existing schemes rely on quantum non-locality and cannot be applied to 
 ### Oracle separations of hybrid quantum-classical circuits
 *Atul Singh Arora, Alexandru Gheorghiu, Uttam Singh*
 
-<sub> Jan 2022 [ [arXiv](https://arxiv.org/abs/2201.01904) | [GitHub](https://atulsingharora.github.io/HQC) ] —— [submitting]  </sub>  
+<sub> Jan 2022 [ [arXiv](https://arxiv.org/abs/2201.01904) | [GitHub](https://atulsingharora.github.io/HQC) ]  </sub>  
 <sub>47 pages, 5 figures</sub>
 
 </summary>
