@@ -29,7 +29,7 @@ Listed alphabetically
 | Author | Affiliation |
 | - | - |
 | Atul Singh Arora | IIIT Hyderabad | 
-| Mauro Morales |  | 
-| Carl Miller |  | 
-| Jamie Sikora |  |
+| Mauro Morales | University of Maryland | 
+| Carl Miller | University of Maryland, NIST | 
+| Jamie Sikora | Virginia Tech |
 
