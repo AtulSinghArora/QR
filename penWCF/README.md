@@ -24,8 +24,12 @@ TODO: Update these once the article is out.
 
 
 ### Authors
+Listed alphabetically 
 
 | Author | Affiliation |
-|
-Atul Singh Arora, Mauro Morales, Carl Miller, Jamie Sikora 
+| - | - |
+| Atul Singh Arora | IIIT Hyderabad | 
+| Mauro Morales |  | 
+| Carl Miller |  | 
+| Jamie Sikora |  |
 
