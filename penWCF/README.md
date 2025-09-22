@@ -12,14 +12,18 @@ TODO: Update these once the article is out.
 
 | Version | arXiv | Changes | 
 |-|-|-|
-| [1.0]() | v1 | arXiv version (soon) |
+| [0.1]() | 0v1 | draft version |
 
 
 ### Code
 
+The code was jointly written by Carl Miller and Mauro ES Morales.
+
 | File | Explanation | 
 |-|-|
-| [TIPG_Solver.m]() | Mathematica code that solves TIPGs corresponding to cheat penalty coin flipping; given a grid, penalty Λ, and points on which to estimate validity. | 
+| [ProjectColumn2.m](numerics/Calculations_approxValid.nb) | Mathematica code that solves TIPGs corresponding to cheat penalty coin flipping; given a grid, penalty Λ, and points on which to estimate validity. However, the result is only "approximately valid"| 
+| [Calculations_approxValid.np](numerics/Calculations_approxValid.nb) | A python notebook that projects the "approximately valid" solution onto a valid solution; this is what we finally report |  
+| [matrices_TIPG.txt](numerics/Matrices_TIPG.txt) | A text file that contains all the results reported in the manuscript |
 
 
 
