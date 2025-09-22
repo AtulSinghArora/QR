@@ -22,7 +22,7 @@ The code was jointly written by Carl Miller and Mauro ES Morales.
 | File | Explanation | 
 |-|-|
 | [Calculations_approxValid.np](numerics/Calculations_approxValid.nb) | Mathematica code that solves TIPGs corresponding to cheat penalty coin flipping; given a grid, penalty Λ, and points on which to estimate validity. However, the result is only "approximately valid"| 
-| [ProjectColumn2.m](numerics/ProjectColumn2.m) | A python notebook that projects the "approximately valid" solution onto a valid solution; this is what we finally report |  
+| [ProjectColumn2.m](numerics/ProjectColumn2.m) | A Matlab file that projects the "approximately valid" solution onto a valid solution; this is what we finally report |  
 | [matrices_TIPG.txt](numerics/Matrices_TIPG.txt) | A text file that contains all the results reported in the manuscript |
 
 
