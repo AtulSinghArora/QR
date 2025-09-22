@@ -18,7 +18,7 @@ Coin-flipping is a fundamental task in two-party cryptography where two remote m
 
 ### Code
 
-The code was written jointly by Carl Miller and Mauro ES Morales.
+The code was written jointly by Carl Miller and Mauro E.S. Morales.
 
 | File | Explanation | 
 |-|-|
@@ -37,5 +37,6 @@ Listed alphabetically
 | Carl Miller | (QuICS) University of Maryland, NIST | 
 | Mauro E.S. Morales | (QuICS) University of Maryland | 
 | Jamie Sikora | (VTQ) Virginia Tech |
+
 
 
