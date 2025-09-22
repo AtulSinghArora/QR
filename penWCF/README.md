@@ -12,7 +12,7 @@ TODO: Update these once the article is out.
 
 | Version | arXiv | Changes | 
 |-|-|-|
-| [0.1]() | 0v1 | draft version |
+| [0.6](penWCF_0v6.pdf) | 0v6 | Early draft |
 
 
 ### Code
@@ -21,7 +21,7 @@ The code was jointly written by Carl Miller and Mauro ES Morales.
 
 | File | Explanation | 
 |-|-|
-| [ProjectColumn2.m](numerics/Calculations_approxValid.nb) | Mathematica code that solves TIPGs corresponding to cheat penalty coin flipping; given a grid, penalty Λ, and points on which to estimate validity. However, the result is only "approximately valid"| 
+| [ProjectColumn2.m](numerics/ProjectColumn2.m) | Mathematica code that solves TIPGs corresponding to cheat penalty coin flipping; given a grid, penalty Λ, and points on which to estimate validity. However, the result is only "approximately valid"| 
 | [Calculations_approxValid.np](numerics/Calculations_approxValid.nb) | A python notebook that projects the "approximately valid" solution onto a valid solution; this is what we finally report |  
 | [matrices_TIPG.txt](numerics/Matrices_TIPG.txt) | A text file that contains all the results reported in the manuscript |
 
