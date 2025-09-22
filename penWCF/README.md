@@ -28,8 +28,9 @@ Listed alphabetically
 
 | Author | Affiliation |
 | - | - |
-| Atul Singh Arora | IIIT Hyderabad | 
-| Carl Miller | University of Maryland, NIST | 
-| Mauro Morales | University of Maryland | 
-| Jamie Sikora | Virginia Tech |
+| Atul Singh Arora | (CQST) IIIT Hyderabad, (QuICS) University of Maryland | 
+| Carl Miller | (QuICS) University of Maryland, NIST | 
+| Mauro E.S. Morales | (QuICS) University of Maryland | 
+| Jamie Sikora | (VTQ) Virginia Tech |
+
 
