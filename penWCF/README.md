@@ -9,7 +9,7 @@ Coin-flipping is a fundamental task in two-party cryptography where two remote m
 
 
 
-<sub> [ [current](penWCF_0v6.pdf) | [arXiv]() (soon) ] </sub>
+<sub> [ [current](penWCF_1v0.pdf) | [arXiv](https://www.arxiv.org/abs/2510.03218) ] </sub>
 
 
 | Version | arXiv | Changes | 
@@ -51,6 +51,7 @@ Listed alphabetically
 | Carl Miller | (QuICS) University of Maryland | 
 | Mauro E.S. Morales | (QuICS) University of Maryland | 
 | Jamie Sikora | (VTQ) Virginia Tech |
+
 
 
 
