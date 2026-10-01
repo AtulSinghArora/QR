@@ -43,4 +43,4 @@ Overall, these results point towards a theory of thermodynamics where computatio
 
 (Listed alphabetically)
 
-(AI was only used for looking up/debugging LaTeX commands)
+(AI was only used for looking up and debugging LaTeX commands)
