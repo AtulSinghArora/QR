@@ -41,6 +41,8 @@ Overall, these results point towards a theory of thermodynamics where computatio
 | Uttam *Singh* | CQST, IIIT Hyderabad |  uttam@iiit.ac.in |
 
 
+For various insightful discussions and comments, we are grateful to Andrea Coladangelo (in particular, for the "last query" approach) and Venkata Koppula (in particular, during our misguided forays into database arguments).
+
 (Listed alphabetically)
 
 (AI was only used for looking up and debugging LaTeX commands)
