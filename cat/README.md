@@ -1,4 +1,4 @@
-# 
+# Computational Work Extraction: The Complexity of Catalysts
 
 We prove maximal separations: $n$-qubit systems can have $\Theta(n)$ ergotropy, while every efficient process extracts negligible work, even for Hamiltonians consisting of single-qubit terms. We establish an unconditional existential separation and give an explicit construction in the random oracle model. Assuming the existence of quantum-secure pseudorandom functions, this separation extends to the plain model.
 
@@ -28,12 +28,14 @@ Overall, these results point towards a theory of thermodynamics where computatio
 
 ### Authors
 
+
 | Name | Affiliation | Email | 
 | -- | -- | -- | 
-| Atul Singh Arora | 
-| Shantanav Chakraborty | 
-| Alexandru Cojocaru | 
-| Sreyas Saminathan | 
-| Uttam Singh | 
+| Atul Singh *Arora* | CQST, IIIT Hyderabad | atul.singh.arora@gmail.com |
+| Shantanav *Chakraborty* | CQST and CSTAR, IIIT Hyderabad | shchakra@iiit.ac.in |
+| Alexandru *Cojocaru* | University of Edinburgh | cojocaru.alex.3010@gmail.com |
+| Sreyas *Saminathan* | CQST, IIIT Hyderabad | futuresreyas@gmail.com |
+| Uttam *Singh* | CQST, IIIT Hyderabad |  uttam@iiit.ac.in |
 
 
+(Listed alphabetically)
